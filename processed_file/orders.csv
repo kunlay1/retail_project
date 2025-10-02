@@ -1,0 +1,501 @@
+Transaction_ID,Customer_ID,Date,Year,Product_Brand,Product_Category,Product_Type,Amount,Total_Amount,Total_Purchases,Time,Order_Status,Shipping_Method,Feedback,Ratings
+8691788,37249,2023-09-18,2023,Nike,Clothing,Shorts,108.0287567,324.08627,3.0,22:03:55,Shipped,Same-Day,Excellent,5.0
+2174773,69749,2023-12-31,2023,Samsung,Electronics,Tablet,403.3539073,806.7078147,2.0,8:42:04,Processing,Standard,Excellent,4.0
+6679610,30192,2023-04-26,2023,Penguin Books,Books,Children's,354.4775997,1063.432799,3.0,4:06:29,Processing,Same-Day,Average,2.0
+7232460,62101,2023-05-08,2023,Home Depot,Home Decor,Tools,352.4077173,2466.854021,7.0,14:55:17,Processing,Standard,Excellent,4.0
+4983775,27901,2024-01-10,2024,Nestle,Grocery,Chocolate,124.2765245,248.5530491,2.0,16:54:07,Shipped,Standard,Bad,1.0
+6095326,41289,2023-09-21,2023,Apple,Electronics,Tablet,296.2918059,1185.167224,4.0,23:24:27,Pending,Express,Good,4.0
+5434096,97285,2023-06-26,2023,Samsung,Electronics,Television,315.0576476,630.1152951,2.0,13:35:51,Processing,Standard,Bad,1.0
+2344675,26603,2023-03-24,2023,Zara,Clothing,Shirt,46.58807038,46.58807038,1.0,10:12:56,Processing,Same-Day,Bad,1.0
+4155845,80175,2024-01-06,2024,Nestle,Grocery,Chocolate,328.8393017,2630.714413,8.0,14:38:26,Delivered,Same-Day,Bad,1.0
+4926148,31878,2023-10-04,2023,Home Depot,Home Decor,Decorations,397.6112295,3976.112295,10.0,22:27:40,Delivered,Standard,Excellent,4.0
+8493213,19136,2023-07-20,2023,Home Depot,Home Decor,Tools,90.98186975,363.927479,4.0,23:06:51,Shipped,Standard,Average,2.0
+1609659,66883,2023-06-21,2023,Random House,Books,Non-Fiction,364.8305669,364.8305669,1.0,13:09:58,Pending,Standard,Average,2.0
+2846832,31930,2024-01-02,2024,Coca-Cola,Grocery,Water,161.879361,1618.79361,10.0,0:00:47,Delivered,Standard,Bad,1.0
+3217461,74671,2023-05-07,2023,Nestle,Grocery,Snacks,350.8170158,3157.353142,9.0,18:49:35,Delivered,Express,Excellent,4.0
+2401331,98300,2023-11-18,2023,Adidas,Clothing,T-shirt,297.7260391,1786.356235,6.0,23:41:05,Shipped,Same-Day,Bad,1.0
+4969987,64995,2023-06-15,2023,Random House,Books,Literature,23.72390122,71.17170367,3.0,23:24:22,Pending,Express,Bad,1.0
+6681000,69939,2023-07-01,2023,Pepsi,Grocery,Water,14.72716425,147.2716425,10.0,11:12:02,Shipped,Same-Day,Average,2.0
+2430572,71803,2023-04-14,2023,Apple,Electronics,Tablet,139.786855,419.3605651,3.0,5:50:55,Shipped,Express,Good,3.0
+7728099,78376,2024-02-07,2024,Coca-Cola,Grocery,Juice,210.1379188,210.1379188,1.0,18:29:59,Shipped,Express,Bad,1.0
+3489336,40654,2023-10-24,2023,IKEA,Home Decor,Furniture,469.6596392,939.3192783,2.0,13:01:04,Shipped,Standard,Average,2.0
+6925572,42165,2023-03-21,2023,Nestle,Grocery,Coffee,420.8750298,2525.250179,6.0,11:51:41,Processing,Same-Day,Average,2.0
+8871554,63914,2023-08-06,2023,HarperCollins,Books,Non-Fiction,200.2871282,801.1485128,4.0,5:13:31,Processing,Standard,Average,2.0
+9476855,42410,2024-02-03,2024,Penguin Books,Books,Non-Fiction,34.12426631,204.7455979,6.0,6:22:00,Processing,Same-Day,Average,2.0
+9338306,48869,2023-05-31,2023,Bed Bath & Beyond,Home Decor,Bathroom,436.6079091,3492.863273,8.0,9:15:44,Pending,Standard,Good,3.0
+9070447,99870,2024-02-27,2024,Coca-Cola,Grocery,Juice,285.2983297,570.5966593,2.0,13:51:11,Processing,Same-Day,Bad,1.0
+9082305,47037,2023-04-20,2023,Bed Bath & Beyond,Home Decor,Kitchen,75.20993501,451.25961,6.0,4:45:57,Pending,Standard,Bad,1.0
+4725198,28381,2023-06-03,2023,Samsung,Electronics,Smartphone,173.5707379,173.5707379,1.0,4:57:04,Shipped,Express,Good,3.0
+5230876,23097,2024-01-07,2024,Apple,Electronics,Tablet,471.482132,2357.41066,5.0,17:33:45,Shipped,Same-Day,Bad,1.0
+2459574,42540,2023-04-22,2023,Home Depot,Home Decor,Decorations,333.8596639,2670.877311,8.0,9:17:29,Delivered,Standard,Excellent,5.0
+2873384,55388,2023-06-21,2023,Coca-Cola,Grocery,Juice,240.2281886,1441.369132,6.0,16:42:37,Pending,Standard,Good,3.0
+3413296,98256,2024-02-06,2024,Adidas,Clothing,Shoes,159.8041933,479.4125799,3.0,1:59:20,Pending,Same-Day,Good,3.0
+6408692,90935,2023-11-26,2023,HarperCollins,Books,Thriller,147.0982341,294.1964683,2.0,6:43:16,Processing,Standard,Good,3.0
+8973612,65701,2023-05-22,2023,IKEA,Home Decor,Decorations,344.6791851,2412.754296,7.0,11:24:20,Processing,Same-Day,Excellent,5.0
+5404187,23713,2023-06-29,2023,Samsung,Electronics,Smartphone,243.6402763,974.5611052,4.0,11:35:43,Pending,Express,Average,2.0
+4208526,66911,2023-12-16,2023,Nestle,Grocery,Chocolate,333.7044331,667.4088663,2.0,4:00:08,Pending,Same-Day,Excellent,4.0
+1505270,38517,2023-04-10,2023,IKEA,Home Decor,Decorations,322.1477142,966.4431427,3.0,6:50:20,Delivered,Same-Day,Good,4.0
+8783109,65305,2023-12-12,2023,Zara,Clothing,Shirt,195.551403,977.7570148,5.0,17:48:31,Pending,Express,Good,4.0
+4579663,31767,2024-02-16,2024,Penguin Books,Books,Children's,161.3873342,1452.486008,9.0,20:44:42,Pending,Standard,Excellent,4.0
+5992046,30637,2024-02-08,2024,Pepsi,Grocery,Soft Drink,44.33018431,310.3112902,7.0,12:07:52,Processing,Express,Good,4.0
+2458233,96840,2023-10-29,2023,Adidas,Clothing,Shoes,28.82551058,230.6040847,8.0,13:43:05,Pending,Same-Day,Excellent,4.0
+2055036,25848,2024-02-21,2024,Coca-Cola,Grocery,Juice,20.52853677,205.2853677,10.0,22:28:09,Pending,Same-Day,Excellent,4.0
+4923734,91172,2023-03-17,2023,Random House,Books,Literature,227.4255488,682.2766465,3.0,8:03:15,Pending,Same-Day,Good,4.0
+3902930,77572,2023-10-06,2023,Apple,Electronics,Laptop,334.1656983,2004.99419,6.0,4:59:02,Shipped,Same-Day,Bad,1.0
+9885863,46361,2023-11-05,2023,IKEA,Home Decor,Furniture,141.2143655,282.4287309,2.0,17:38:05,Processing,Same-Day,Excellent,5.0
+3239367,62464,2023-12-14,2023,Zara,Clothing,Dress,312.9765727,938.929718,3.0,20:24:39,Delivered,Standard,Average,2.0
+6047927,74096,2023-06-19,2023,Sony,Electronics,Headphones,399.7871224,399.7871224,1.0,11:40:40,Pending,Express,Good,4.0
+1089259,21399,2023-03-16,2023,IKEA,Home Decor,Lighting,315.6288671,2209.40207,7.0,1:42:10,Pending,Express,Excellent,5.0
+6353946,39757,2023-07-16,2023,Home Depot,Home Decor,Decorations,93.00421884,744.0337507,8.0,17:20:37,Processing,Same-Day,Good,3.0
+8796466,90189,2023-04-19,2023,Bed Bath & Beyond,Home Decor,Bedding,346.7195926,2427.037148,7.0,2:13:39,Delivered,Standard,Bad,1.0
+2545225,86575,2023-09-10,2023,Adidas,Clothing,Jacket,106.506742,639.040452,6.0,19:22:43,Pending,Standard,Average,2.0
+9051490,19303,2023-03-15,2023,Home Depot,Home Decor,Furniture,230.8758523,461.7517047,2.0,1:07:58,Processing,Standard,Bad,1.0
+4580441,12911,2023-11-11,2023,Nestle,Grocery,Chocolate,394.6062656,1183.818797,3.0,15:38:31,Processing,Express,Excellent,5.0
+9786592,71257,2023-07-25,2023,Samsung,Electronics,Television,281.6001693,563.2003387,2.0,20:29:30,Delivered,Standard,Average,2.0
+6315151,75456,2023-10-03,2023,Sony,Electronics,Headphones,303.7898645,1215.159458,4.0,4:34:26,Delivered,Express,Bad,1.0
+6857160,50574,2023-10-17,2023,Nike,Clothing,Shoes,129.7569724,519.0278895,4.0,6:40:06,Shipped,Same-Day,Bad,1.0
+8523222,81200,2023-06-27,2023,Sony,Electronics,Headphones,257.5869724,1030.34789,4.0,11:30:53,Processing,Same-Day,Good,4.0
+6921233,21381,2023-11-26,2023,Home Depot,Home Decor,Decorations,387.5534458,3875.534458,10.0,16:09:33,Shipped,Same-Day,Average,2.0
+9658399,71121,2024-02-18,2024,Pepsi,Grocery,Soft Drink,97.99678856,979.9678856,10.0,11:46:09,Shipped,Same-Day,Bad,1.0
+3121715,64722,2024-02-22,2024,Random House,Books,Literature,291.8812732,2626.931459,9.0,19:13:49,Shipped,Express,Average,2.0
+4021565,59819,2023-10-08,2023,Random House,Books,Non-Fiction,474.8269416,4273.442474,9.0,5:45:56,Shipped,Standard,Average,2.0
+4058513,57742,2023-10-11,2023,Bed Bath & Beyond,Home Decor,Kitchen,93.0621505,837.5593545,9.0,7:56:37,Delivered,Same-Day,Average,2.0
+8670923,80071,2023-09-17,2023,Home Depot,Home Decor,Tools,71.19155079,427.1493047,6.0,1:25:11,Pending,Standard,Average,2.0
+4427458,97683,2023-11-04,2023,Nike,Clothing,Shoes,85.15693246,255.4707974,3.0,14:44:24,Delivered,Same-Day,Average,2.0
+5532127,51980,2023-06-20,2023,Random House,Books,Literature,306.5457321,2758.911589,9.0,0:17:23,Shipped,Standard,Average,2.0
+6761027,11397,2023-08-31,2023,Home Depot,Home Decor,Furniture,405.4487158,810.8974316,2.0,0:34:27,Processing,Standard,Good,4.0
+9202969,35966,2024-02-20,2024,HarperCollins,Books,Non-Fiction,187.0926026,748.3704105,4.0,7:34:49,Delivered,Express,Bad,1.0
+5161746,95925,2023-03-12,2023,Sony,Electronics,Headphones,313.4881143,3134.881143,10.0,8:31:15,Processing,Same-Day,Average,2.0
+4154386,56726,2023-07-23,2023,IKEA,Home Decor,Decorations,148.7134709,594.8538835,4.0,19:14:52,Pending,Same-Day,Good,3.0
+7509621,87729,2023-12-12,2023,Zara,Clothing,Shirt,245.1867334,980.7469337,4.0,3:55:19,Delivered,Standard,Good,4.0
+7734668,49952,2023-05-06,2023,Random House,Books,Non-Fiction,59.2618184,592.618184,10.0,3:42:45,Pending,Same-Day,Bad,1.0
+9845803,79052,2023-11-14,2023,Coca-Cola,Grocery,Soft Drink,139.8812925,979.1690474,7.0,18:12:57,Shipped,Standard,Excellent,4.0
+9634627,90837,2024-02-06,2024,Samsung,Electronics,Tablet,436.749375,3493.995,8.0,5:31:02,Delivered,Express,Average,2.0
+9534452,20500,2023-06-06,2023,Zara,Clothing,Dress,201.9537348,807.8149392,4.0,8:43:39,Processing,Standard,Average,2.0
+6126111,63629,2023-03-23,2023,Apple,Electronics,Laptop,202.6093011,1823.48371,9.0,11:59:32,Shipped,Same-Day,Bad,1.0
+9510333,71053,2023-04-08,2023,Bed Bath & Beyond,Home Decor,Kitchen,405.9901115,2841.930781,7.0,9:21:09,Processing,Express,Excellent,5.0
+7478681,73823,2023-11-23,2023,Pepsi,Grocery,Juice,249.6148342,249.6148342,1.0,22:16:03,Delivered,Same-Day,Excellent,5.0
+5696111,28956,2023-08-18,2023,HarperCollins,Books,Thriller,413.762511,1241.287533,3.0,1:30:01,Delivered,Express,Good,4.0
+4419654,21444,2023-10-30,2023,Bed Bath & Beyond,Home Decor,Bedding,312.4280564,1249.712226,4.0,18:07:26,Shipped,Express,Bad,1.0
+4440264,68648,2023-03-04,2023,Bed Bath & Beyond,Home Decor,Bathroom,37.40545462,224.4327277,6.0,8:10:02,Processing,Same-Day,Average,2.0
+9711181,50100,2024-01-13,2024,Sony,Electronics,Smartphone,279.5816873,838.7450619,3.0,16:41:07,Processing,Same-Day,Good,4.0
+7757654,65961,2023-07-22,2023,Sony,Electronics,Television,51.51626766,412.1301413,8.0,10:36:45,Processing,Standard,Average,2.0
+3381958,70067,2023-07-19,2023,Sony,Electronics,Headphones,364.5142093,2916.113675,8.0,9:22:55,Processing,Express,Average,2.0
+5961798,31581,2023-03-02,2023,Zara,Clothing,Shirt,72.86168263,437.1700958,6.0,0:04:24,Processing,Same-Day,Good,3.0
+8164996,12604,2023-12-06,2023,Coca-Cola,Grocery,Water,159.7195966,958.3175796,6.0,11:08:06,Pending,Standard,Average,2.0
+6573179,55594,2023-11-13,2023,Adidas,Clothing,Jacket,422.3872606,2534.323563,6.0,1:04:00,Delivered,Express,Excellent,5.0
+6650415,98788,2023-09-03,2023,Penguin Books,Books,Fiction,147.8845358,1478.845358,10.0,11:03:16,Processing,Same-Day,Average,2.0
+3101006,59411,2023-11-01,2023,Apple,Electronics,Laptop,55.0574653,550.574653,10.0,2:09:59,Delivered,Same-Day,Average,2.0
+3892971,67690,2023-04-04,2023,Penguin Books,Books,Fiction,426.6513417,426.6513417,1.0,11:34:09,Shipped,Standard,Excellent,5.0
+1198092,96720,2023-03-22,2023,Nestle,Grocery,Snacks,324.7267472,2922.540725,9.0,5:44:33,Delivered,Same-Day,Good,3.0
+7978896,28489,2023-12-07,2023,Nestle,Grocery,Snacks,199.8245013,599.4735038,3.0,6:27:17,Processing,Express,Bad,1.0
+4615607,22945,2024-01-26,2024,HarperCollins,Books,Thriller,386.9843038,3482.858734,9.0,17:05:34,Pending,Express,Bad,1.0
+6983938,15757,2023-06-28,2023,Sony,Electronics,Smartphone,363.4813448,3634.813448,10.0,8:35:41,Delivered,Same-Day,Average,2.0
+6314125,15983,2023-12-07,2023,Sony,Electronics,Smartphone,104.8262263,104.8262263,1.0,21:09:35,Processing,Same-Day,Excellent,4.0
+1874788,74649,2023-04-19,2023,Nestle,Grocery,Chocolate,289.1167828,1445.583914,5.0,22:26:07,Delivered,Express,Average,2.0
+2982163,50952,2023-03-05,2023,Nike,Clothing,Shorts,427.5947837,1282.784351,3.0,17:10:46,Pending,Express,Bad,1.0
+5166565,51279,2023-12-21,2023,Pepsi,Grocery,Water,183.7086333,734.8345331,4.0,0:41:21,Processing,Same-Day,Good,3.0
+1685588,70655,2023-08-25,2023,Penguin Books,Books,Fiction,466.22066,1864.88264,4.0,19:46:47,Processing,Express,Excellent,5.0
+3101821,93615,2023-03-08,2023,Pepsi,Grocery,Soft Drink,106.4830681,638.8984086,6.0,21:43:17,Processing,Same-Day,Bad,1.0
+6113733,86785,2023-05-16,2023,Zara,Clothing,Shirt,311.4446143,2803.001528,9.0,19:39:12,Shipped,Same-Day,Bad,1.0
+9823195,14549,2023-11-08,Unknown,Penguin Books,Books,Fiction,104.5063373,418.0253491,4.0,17:08:17,Processing,Express,Excellent,5.0
+1295338,94652,2023-12-17,2023,Random House,Books,Fiction,152.5736658,305.1473315,2.0,21:32:32,Shipped,Same-Day,Excellent,5.0
+3326402,67949,2024-02-20,2024,Nestle,Grocery,Snacks,242.8579728,728.5739184,3.0,3:39:48,Processing,Standard,Average,2.0
+9703915,38862,2023-11-16,2023,Nestle,Grocery,Chocolate,380.1576511,1140.472953,3.0,15:29:46,Processing,Standard,Bad,1.0
+1194954,13566,2023-07-03,2023,Bed Bath & Beyond,Home Decor,Bathroom,377.6137689,377.6137689,1.0,14:22:41,Pending,Same-Day,Good,3.0
+8942113,72626,2024-01-25,2024,Bed Bath & Beyond,Home Decor,Bedding,212.3024659,212.3024659,1.0,17:48:38,Processing,Same-Day,Average,2.0
+2729227,45610,2023-07-10,2023,Random House,Books,Literature,145.6583398,1310.925059,9.0,16:49:22,Processing,Standard,Average,2.0
+9193737,45455,2023-07-25,2023,Sony,Electronics,Smartphone,275.7202207,275.7202207,1.0,17:53:48,Processing,Express,Average,2.0
+7260440,72079,2023-12-12,2023,Home Depot,Home Decor,Furniture,249.8993538,2498.993538,10.0,16:21:55,Shipped,Standard,Bad,1.0
+6219631,26736,2023-08-30,2023,Samsung,Electronics,Television,221.5377905,1772.302324,8.0,19:19:22,Shipped,Express,Good,4.0
+7379891,47846,2023-06-24,2023,Coca-Cola,Grocery,Juice,478.109162,1912.436648,4.0,1:17:23,Delivered,Same-Day,Unknown,
+8748941,77875,2024-01-14,2024,Sony,Electronics,Television,399.3726237,1198.117871,3.0,21:18:43,Shipped,Standard,Good,3.0
+7177238,95547,2024-02-05,2024,Random House,Books,Non-Fiction,459.6822933,3217.776053,7.0,7:38:28,Pending,Express,Good,4.0
+6752816,50126,2023-12-20,2023,Apple,Electronics,Smartphone,171.2626583,171.2626583,1.0,8:57:11,Processing,Standard,Bad,1.0
+7018142,67530,2023-08-23,2023,Adidas,Clothing,T-shirt,178.0342511,1246.239758,7.0,1:40:26,Processing,Standard,Excellent,4.0
+9329957,55159,2024-02-06,2024,Coca-Cola,Grocery,Juice,354.6951817,354.6951817,1.0,10:56:31,Pending,Standard,Good,4.0
+6298651,50555,2024-02-02,2024,Samsung,Electronics,Smartphone,373.8363983,3738.363983,10.0,4:39:39,Pending,Standard,Bad,1.0
+5575470,21352,2023-03-04,2023,Coca-Cola,Grocery,Soft Drink,191.2814448,191.2814448,1.0,17:34:14,Delivered,Same-Day,Excellent,4.0
+1238495,28128,2024-02-23,2024,IKEA,Home Decor,Lighting,155.8863582,155.8863582,1.0,3:19:09,Pending,Same-Day,Good,4.0
+4105287,41336,2024-01-17,2024,Apple,Electronics,Laptop,141.864984,851.1899039,6.0,11:14:33,Processing,Express,Average,2.0
+9255871,96814,2024-02-05,2024,Apple,Electronics,Laptop,246.1520185,246.1520185,1.0,1:35:20,Pending,Standard,Bad,1.0
+3997195,95592,2023-09-05,2023,Nestle,Grocery,Chocolate,20.71651673,62.14955018,3.0,13:53:22,Processing,Express,Average,2.0
+9366120,90603,2023-03-19,2023,Nestle,Grocery,Snacks,94.33213936,848.9892543,9.0,22:48:31,Delivered,Standard,Average,2.0
+5419578,88294,2023-06-15,2023,Coca-Cola,Grocery,Juice,423.6130845,2965.291591,7.0,9:22:20,Pending,Standard,Bad,1.0
+7361679,47748,2023-03-05,2023,Adidas,Clothing,Jacket,300.2684416,3002.684416,10.0,7:54:44,Pending,Standard,Unknown,
+7850231,84982,2024-01-06,2024,Samsung,Electronics,Television,98.22057468,196.4411494,2.0,9:43:31,Delivered,Same-Day,Bad,1.0
+5943482,31054,2023-12-15,2023,IKEA,Home Decor,Furniture,167.7337854,1509.604068,9.0,3:26:33,Delivered,Express,Good,3.0
+7567107,27353,2023-10-30,2023,Random House,Books,Literature,180.1567737,180.1567737,1.0,2:34:45,Shipped,Same-Day,Good,3.0
+5245038,52641,2023-09-08,2023,IKEA,Home Decor,Decorations,12.48091594,87.36641155,7.0,7:19:22,Pending,Express,Average,2.0
+9334981,71681,2023-09-11,2023,Adidas,Clothing,T-shirt,318.4496589,1592.248294,5.0,13:27:52,Processing,Same-Day,Average,2.0
+1804470,65334,2023-11-15,2023,Penguin Books,Books,Children's,367.4544789,1102.363437,3.0,0:50:35,Processing,Express,Average,2.0
+6135513,83016,2023-12-19,2023,Coca-Cola,Grocery,Water,62.1635342,310.817671,5.0,13:09:49,Delivered,Same-Day,Average,2.0
+1705974,40624,2023-03-13,2023,Pepsi,Grocery,Soft Drink,360.6269886,721.2539773,2.0,4:32:41,Delivered,Standard,Excellent,5.0
+5343974,66428,2023-11-28,2023,Coca-Cola,Grocery,Juice,315.7222744,315.7222744,1.0,19:22:50,Shipped,Standard,Bad,1.0
+8273419,34145,2023-12-02,2023,Home Depot,Home Decor,Furniture,183.231127,1649.080143,9.0,0:36:31,Processing,Express,Bad,1.0
+3134820,13629,2023-09-14,2023,IKEA,Home Decor,Lighting,291.4328373,1457.164187,5.0,11:06:34,Processing,Standard,Excellent,4.0
+3528652,26940,2023-07-15,2023,Adidas,Clothing,Shoes,492.5455335,3940.364268,8.0,15:45:14,Processing,Standard,Good,4.0
+4946535,73735,2023-09-17,2023,Samsung,Electronics,Television,493.301515,2959.80909,6.0,3:11:02,Shipped,Standard,Good,4.0
+3632603,96811,2024-01-08,2024,Bed Bath & Beyond,Home Decor,Bathroom,457.2501079,914.5002158,2.0,5:12:33,Pending,Standard,Good,3.0
+9484414,50056,2023-09-01,2023,Random House,Books,Fiction,380.3025105,2281.815063,6.0,10:18:10,Processing,Express,Good,3.0
+9192381,41835,2023-03-28,2023,Bed Bath & Beyond,Home Decor,Bedding,50.42054079,100.8410816,2.0,11:29:19,Shipped,Express,Good,4.0
+9084403,89815,2024-02-26,2024,Random House,Books,Fiction,291.4024205,874.2072614,3.0,2:31:09,Shipped,Standard,Excellent,4.0
+8871239,84806,2023-08-24,2023,Home Depot,Home Decor,Decorations,123.0183684,492.0734736,4.0,3:43:33,Shipped,Same-Day,Bad,1.0
+5050125,14196,2023-09-12,2023,Zara,Clothing,Dress,253.0541571,253.0541571,1.0,18:24:39,Pending,Unknown,Average,2.0
+2300962,11602,2023-12-13,2023,Sony,Electronics,Headphones,126.8194883,507.2779531,4.0,18:26:04,Pending,Express,Excellent,4.0
+6923123,40667,2023-08-07,2023,IKEA,Home Decor,Furniture,49.25146702,147.7544011,3.0,18:53:55,Shipped,Standard,Average,2.0
+6094546,12223,2023-06-10,2023,Adidas,Clothing,Jacket,167.5230264,1005.138159,6.0,11:15:56,Processing,Express,Excellent,4.0
+2491876,92174,2023-05-05,2023,Bed Bath & Beyond,Home Decor,Kitchen,318.5546054,1592.773027,5.0,21:19:36,Pending,Express,Average,2.0
+9528651,70193,2023-09-06,2023,Bed Bath & Beyond,Home Decor,Bathroom,491.1758,1964.7032,4.0,15:02:23,Shipped,Same-Day,Average,2.0
+6615549,37748,2024-01-29,2024,Coca-Cola,Grocery,Juice,194.123119,970.6155948,5.0,2:18:17,Processing,Express,Bad,1.0
+5820774,46908,2023-10-14,2023,Penguin Books,Books,Fiction,402.1154395,2010.577198,5.0,8:02:34,Processing,Same-Day,Excellent,4.0
+4613625,72950,2023-06-06,2023,Samsung,Electronics,Television,488.5287161,4885.287161,10.0,9:03:24,Pending,Same-Day,Average,2.0
+7433237,78960,2023-05-30,2023,Penguin Books,Books,Children's,435.2627046,2176.313523,5.0,21:07:29,Delivered,Express,Excellent,4.0
+6907373,97201,2023-05-31,2023,HarperCollins,Books,Thriller,142.0725796,710.3628978,5.0,10:40:30,Delivered,Same-Day,Excellent,5.0
+1761766,37351,2023-08-14,2023,Home Depot,Home Decor,Furniture,225.7715983,1128.857991,5.0,14:21:40,Pending,Same-Day,Bad,1.0
+4435221,73668,2023-05-17,2023,Zara,Clothing,Shirt,435.10538,2175.5269,5.0,18:20:46,Delivered,Standard,Excellent,4.0
+4201893,93072,2023-12-14,2023,Adidas,Clothing,Jacket,324.9156677,649.8313353,2.0,4:50:51,Processing,Express,Excellent,4.0
+6908483,44073,2023-03-27,2023,Sony,Electronics,Headphones,267.8020662,2142.41653,8.0,12:02:58,Delivered,Standard,Bad,1.0
+8400644,33277,2023-07-13,2023,Zara,Clothing,Shirt,299.9304137,1199.721655,4.0,12:00:21,Delivered,Standard,Bad,1.0
+5648072,89211,2024-02-25,2024,Penguin Books,Books,Fiction,168.017706,336.035412,2.0,23:22:49,Shipped,Same-Day,Bad,1.0
+8093529,45413,2023-03-04,2023,Penguin Books,Books,Children's,485.0773617,4850.773617,10.0,20:54:01,Delivered,Standard,Bad,1.0
+1214388,75644,2023-11-18,2023,Zara,Clothing,Jeans,395.5127305,2768.589113,7.0,15:27:07,Delivered,Express,Excellent,5.0
+2780785,28689,2023-06-02,2023,HarperCollins,Books,Thriller,196.3245186,1570.596149,8.0,7:48:59,Pending,Express,Bad,1.0
+9316466,17098,2024-01-12,2024,Sony,Electronics,Smartphone,223.9991314,1791.993051,8.0,23:42:17,Pending,Standard,Average,2.0
+6500202,59565,2024-02-17,2024,Home Depot,Home Decor,Furniture,140.598328,1124.786624,8.0,0:04:20,Delivered,Same-Day,Excellent,5.0
+9449050,14899,2023-05-14,2023,Penguin Books,Books,Children's,249.2309009,996.9236037,4.0,23:02:26,Delivered,Same-Day,Good,3.0
+7311153,95391,2023-11-25,2023,Pepsi,Grocery,Water,207.8439581,1454.907707,7.0,19:11:56,Processing,Express,Average,2.0
+6215388,66817,2023-05-05,2023,Coca-Cola,Grocery,Juice,209.6584616,419.3169233,2.0,23:10:13,Pending,Express,Average,2.0
+8810446,93866,2023-09-23,2023,IKEA,Home Decor,Decorations,188.7204549,943.6022746,5.0,16:15:39,Processing,Same-Day,Bad,1.0
+4176344,11393,2023-07-08,2023,Nike,Clothing,Shorts,457.2923455,4115.631109,9.0,7:45:03,Shipped,Same-Day,Excellent,4.0
+7999142,88381,2023-06-12,2023,Samsung,Electronics,Tablet,278.9850848,1394.925424,5.0,1:13:57,Pending,Express,Bad,1.0
+2869376,95670,2023-12-28,2023,Nestle,Grocery,Chocolate,251.943177,1763.602239,7.0,20:45:47,Shipped,Same-Day,Average,2.0
+5072217,92028,2023-06-23,2023,Sony,Electronics,Smartphone,433.5560183,1300.668055,3.0,5:04:09,Pending,Express,Excellent,4.0
+6726352,26172,2023-05-08,2023,Adidas,Clothing,Shoes,473.9013938,2369.506969,5.0,7:50:36,Shipped,Same-Day,Average,2.0
+6885155,89528,2024-02-10,2024,Sony,Electronics,Television,360.0919904,2520.643933,7.0,10:39:20,Shipped,Standard,Good,3.0
+8744927,39728,2023-07-23,2023,Pepsi,Grocery,Water,417.0340015,1251.102005,,20:46:04,Pending,Standard,Average,2.0
+8984831,10237,2023-03-22,2023,Random House,Books,Literature,404.8225205,1619.290082,4.0,17:30:34,Processing,Express,Average,2.0
+5104546,25605,2023-12-15,2023,Nestle,Grocery,Coffee,92.29543415,184.5908683,2.0,10:51:36,Shipped,Standard,Good,4.0
+7172567,88816,2023-09-03,2023,Zara,Clothing,Shirt,282.3141772,1411.570886,5.0,17:49:30,Pending,Express,Excellent,5.0
+7948369,75143,2023-05-25,2023,Bed Bath & Beyond,Home Decor,Kitchen,327.5769025,1637.884513,5.0,18:37:05,Shipped,Same-Day,Bad,1.0
+7491247,12884,2023-05-06,2023,Penguin Books,Books,Children's,265.6643192,265.6643192,1.0,4:49:27,Shipped,Same-Day,Excellent,5.0
+4122058,47483,2023-04-01,2023,Home Depot,Home Decor,Decorations,248.5914523,497.1829045,2.0,6:07:27,Processing,Same-Day,Excellent,5.0
+6438013,33012,2023-06-12,2023,Home Depot,Home Decor,Decorations,336.6440491,3366.440491,10.0,15:16:10,Shipped,Standard,Good,4.0
+6011814,74001,2024-02-07,2024,Random House,Books,Non-Fiction,147.0027683,1323.024915,9.0,19:32:11,Pending,Standard,Bad,1.0
+2946521,66660,2023-10-27,2023,Samsung,Electronics,Tablet,478.4058455,478.4058455,1.0,2:52:36,Processing,Standard,Bad,1.0
+1823051,48512,2023-09-06,2023,Random House,Books,Non-Fiction,488.0286738,1952.114695,4.0,12:16:56,Pending,Same-Day,Excellent,4.0
+5090778,88539,2023-10-05,2023,HarperCollins,Books,Non-Fiction,357.9849162,2147.909497,6.0,15:08:59,Shipped,Same-Day,Average,2.0
+7839518,22236,2023-04-03,2023,Pepsi,Grocery,Soft Drink,418.657921,418.657921,1.0,8:44:58,Shipped,Standard,Bad,1.0
+9480668,52755,2023-12-29,2023,Nike,Clothing,Shorts,222.402307,1112.011535,5.0,10:15:15,Processing,Same-Day,Bad,1.0
+5621422,88053,2023-07-29,2023,HarperCollins,Books,Non-Fiction,325.6425501,2279.497851,7.0,5:14:04,Shipped,Same-Day,Bad,1.0
+9250956,73450,2024-01-11,2024,Zara,Clothing,Dress,98.06832997,784.5466397,8.0,20:44:08,Processing,Same-Day,Good,4.0
+4830596,74006,2023-06-15,2023,Pepsi,Grocery,Juice,45.42484989,408.823649,9.0,11:58:26,Processing,Express,Excellent,5.0
+2981505,82037,2023-11-26,2023,Apple,Electronics,Tablet,302.8717657,302.8717657,1.0,2:13:03,Pending,Same-Day,Bad,1.0
+9696802,64755,2023-12-31,2023,Adidas,Clothing,T-shirt,232.1670496,1857.336397,8.0,5:08:43,Shipped,Same-Day,Excellent,5.0
+9531502,97514,2023-10-03,2023,Penguin Books,Books,Non-Fiction,326.9730835,1634.865417,5.0,18:38:10,Delivered,Express,Excellent,5.0
+1895008,77277,2023-08-27,2023,HarperCollins,Books,Thriller,253.1001978,2277.90178,9.0,2:08:50,Pending,Standard,Bad,1.0
+9970701,79487,2024-02-24,2024,HarperCollins,Books,Fiction,489.8171047,979.6342094,2.0,20:46:56,Processing,Same-Day,Average,2.0
+3271164,73524,2023-08-04,2023,Adidas,Clothing,T-shirt,273.2359693,1092.943877,4.0,11:50:08,Delivered,Same-Day,Good,3.0
+8039295,77202,2023-10-14,2023,Coca-Cola,Grocery,Water,488.3715782,3418.601047,7.0,10:47:45,Shipped,Express,Bad,1.0
+8117738,61206,2023-11-30,2023,Home Depot,Home Decor,Decorations,304.0787194,1216.314878,4.0,5:52:07,Pending,Standard,Bad,1.0
+5573833,79248,2023-12-27,2023,Adidas,Clothing,Shoes,218.7383412,437.4766824,2.0,21:46:09,Delivered,Same-Day,Excellent,4.0
+7077961,61351,2023-06-17,2023,IKEA,Home Decor,Decorations,95.04799127,95.04799127,1.0,15:05:07,Processing,Standard,Excellent,4.0
+3830823,76742,2024-02-29,2024,HarperCollins,Books,Non-Fiction,385.827242,1543.308968,4.0,14:45:20,Pending,Same-Day,Bad,1.0
+3111772,11288,2023-03-14,2023,Pepsi,Grocery,Soft Drink,117.0364627,117.0364627,1.0,9:46:45,Shipped,Standard,Good,3.0
+4177207,34843,2023-07-10,2023,Samsung,Electronics,Smartphone,343.7173143,1374.869257,4.0,8:24:39,Delivered,Express,Excellent,4.0
+7916796,38118,2023-06-15,2023,Apple,Electronics,Tablet,418.4716139,3766.244525,9.0,21:20:18,Pending,Same-Day,Bad,1.0
+9343361,74050,2023-09-15,2023,IKEA,Home Decor,Furniture,202.8015925,811.2063698,4.0,3:26:44,Delivered,Express,Bad,1.0
+8893144,68547,2023-08-28,2023,Home Depot,Home Decor,Tools,390.1507446,2731.055212,7.0,8:38:11,Shipped,Standard,Good,3.0
+7861294,46019,2023-08-01,2023,Apple,Electronics,Smartphone,284.6691552,1138.676621,4.0,17:47:22,Pending,Express,Bad,1.0
+4281916,24134,2023-05-07,2023,Bed Bath & Beyond,Home Decor,Kitchen,87.04112807,783.3701526,9.0,9:48:08,Pending,Standard,Excellent,4.0
+5480322,72352,2023-12-23,2023,Pepsi,Grocery,Water,492.4528757,1477.358627,3.0,3:55:04,Processing,Same-Day,Excellent,5.0
+2022125,32937,2023-03-19,2023,Home Depot,Home Decor,Decorations,213.5967173,1067.983587,5.0,21:29:33,Processing,Same-Day,Good,4.0
+7629030,67942,2023-06-03,2023,Zara,Clothing,Shirt,56.39101159,112.7820232,2.0,17:24:08,Delivered,Same-Day,Bad,1.0
+8697012,16597,2023-12-03,2023,Zara,Clothing,Dress,385.9838665,3859.838665,10.0,11:57:38,Shipped,Same-Day,Excellent,4.0
+4153822,58115,2023-09-20,2023,Sony,Electronics,Headphones,491.7257409,2950.354446,6.0,6:56:09,Processing,Same-Day,Good,3.0
+3815037,58363,2023-05-26,2023,Samsung,Electronics,Smartphone,390.7484786,3125.987829,8.0,14:51:54,Pending,Standard,Excellent,5.0
+1377119,71025,2024-01-29,2024,Nike,Clothing,Shoes,404.1337469,404.1337469,1.0,21:47:09,Pending,Same-Day,Bad,1.0
+4801034,39803,2023-11-22,2023,Random House,Books,Non-Fiction,36.29586747,72.59173495,2.0,1:41:40,Delivered,Express,Average,2.0
+9213173,27495,2023-08-12,2023,Zara,Clothing,Shirt,488.9931851,2933.959111,6.0,1:08:45,Delivered,Express,Excellent,5.0
+6532646,22191,2023-08-06,2023,Adidas,Clothing,Jacket,182.4097622,1641.68786,9.0,17:20:06,Shipped,Express,Average,2.0
+5849110,43816,2023-08-12,2023,Home Depot,Home Decor,Furniture,283.2660008,2266.128006,8.0,14:41:48,Processing,Same-Day,Good,3.0
+1464706,78184,2023-08-05,2023,Bed Bath & Beyond,Home Decor,Kitchen,28.55972361,285.5972361,10.0,21:50:30,Delivered,Express,Bad,1.0
+8676898,67970,2024-01-06,2024,Zara,Clothing,Dress,312.3090872,624.6181745,2.0,6:04:38,Pending,Express,Excellent,5.0
+6393080,28554,2023-08-15,2023,IKEA,Home Decor,Furniture,360.6581908,3245.923717,9.0,1:01:12,Processing,Express,Bad,1.0
+2053971,84475,2023-12-18,2023,Nestle,Grocery,Chocolate,13.49779465,134.9779465,10.0,1:39:22,Pending,Standard,Bad,1.0
+9947033,80529,2023-05-04,2023,Zara,Clothing,Dress,121.9781801,1097.803621,9.0,5:32:14,Pending,Express,Excellent,4.0
+4419118,89086,2023-03-28,2023,Zara,Clothing,Jeans,92.61252157,833.5126941,9.0,23:40:29,Delivered,Same-Day,Excellent,4.0
+4962423,21224,2023-03-22,2023,Home Depot,Home Decor,Furniture,477.7545633,2388.772817,5.0,4:39:44,Delivered,Standard,Average,2.0
+2885243,13256,2023-07-02,2023,Pepsi,Grocery,Juice,160.8197847,804.0989235,5.0,20:58:06,Processing,Standard,Bad,1.0
+4207259,16846,2023-08-29,2023,Adidas,Clothing,T-shirt,89.23638925,267.7091678,3.0,23:07:32,Processing,Express,Average,2.0
+8579093,11135,2024-02-29,2024,Sony,Electronics,Television,95.45621411,381.8248564,4.0,17:35:10,Shipped,Standard,Good,3.0
+5773486,57550,2023-12-30,2023,Nestle,Grocery,Coffee,334.6147315,3011.532583,9.0,23:30:30,Delivered,Same-Day,Good,4.0
+2896778,19537,2023-10-26,2023,Coca-Cola,Grocery,Soft Drink,426.1686042,426.1686042,1.0,16:19:46,Shipped,Same-Day,Bad,1.0
+3601539,93979,2024-01-09,2024,Coca-Cola,Grocery,Water,32.11555907,321.1555907,10.0,8:44:51,Pending,Same-Day,Average,2.0
+3112881,40113,2023-10-14,2023,Pepsi,Grocery,Water,397.1199649,397.1199649,1.0,6:04:24,Delivered,Same-Day,Average,2.0
+4645610,49175,2024-02-02,2024,Sony,Electronics,Headphones,456.2022483,912.4044965,2.0,16:29:46,Shipped,Standard,Average,2.0
+9570629,57144,2023-12-15,2023,Nike,Clothing,Shorts,304.6860183,3046.860183,10.0,22:27:58,Processing,Standard,Good,4.0
+8919258,35222,2023-07-11,2023,Coca-Cola,Grocery,Water,353.8171446,1061.451434,3.0,5:23:04,Processing,Express,Good,3.0
+7042837,80366,2023-07-29,2023,Home Depot,Home Decor,Furniture,86.8494135,868.494135,10.0,22:43:15,Processing,Express,Average,2.0
+6665538,49922,2023-04-18,2023,Home Depot,Home Decor,Tools,375.1893937,750.3787875,2.0,13:36:56,Shipped,Standard,Bad,1.0
+9858337,29333,2023-04-25,2023,Adidas,Clothing,Jacket,147.1582868,147.1582868,1.0,5:00:39,Delivered,Same-Day,Good,3.0
+2781672,73664,2023-03-21,2023,Penguin Books,Books,Fiction,229.9085253,919.6341013,4.0,17:32:40,Shipped,Same-Day,Average,2.0
+2171546,42831,2023-12-11,2023,Random House,Books,Literature,44.64522398,223.2261199,5.0,0:31:54,Shipped,Same-Day,Good,3.0
+4237878,11577,2023-07-15,2023,Bed Bath & Beyond,Home Decor,Kitchen,41.44507739,124.3352322,3.0,12:14:27,Shipped,Standard,Good,4.0
+2115776,39581,2023-08-09,2023,Samsung,Electronics,Television,190.3278983,190.3278983,1.0,10:51:46,Pending,Standard,Bad,1.0
+9934274,48777,2023-09-09,2023,Random House,Books,Non-Fiction,440.6478038,440.6478038,1.0,20:51:34,Shipped,Same-Day,Good,4.0
+6471367,13265,2023-09-20,2023,Nestle,Grocery,Chocolate,192.7124359,1927.124359,10.0,4:26:39,Delivered,Standard,Excellent,4.0
+7918631,30726,2023-08-05,2023,Random House,Books,Fiction,430.1028142,3870.925328,9.0,6:57:39,Processing,Standard,Bad,1.0
+5728582,78509,2023-10-13,2023,Adidas,Clothing,Jacket,146.6888014,1173.510411,8.0,10:55:01,Delivered,Standard,Good,4.0
+1983549,18932,2023-09-30,2023,Nike,Clothing,T-shirt,123.8693835,867.0856842,7.0,12:12:11,Pending,Same-Day,Excellent,4.0
+1722757,39003,2023-06-03,2023,Samsung,Electronics,Television,486.2156968,972.4313935,2.0,21:21:52,Processing,Standard,Bad,1.0
+5476448,15698,2024-02-19,2024,Samsung,Electronics,Television,486.4098767,3891.279014,8.0,12:52:34,Processing,Same-Day,Excellent,5.0
+5776200,78206,2023-05-19,2023,Samsung,Electronics,Tablet,79.97572337,79.97572337,1.0,2:15:36,Processing,Same-Day,Good,4.0
+9082675,56459,2023-10-06,2023,IKEA,Home Decor,Furniture,112.2262928,336.6788785,3.0,9:14:43,Shipped,Express,Bad,1.0
+1748365,67367,2023-12-02,2023,Apple,Electronics,Laptop,166.6772163,833.3860814,5.0,14:30:44,Shipped,Express,Good,4.0
+9046550,33661,2023-09-23,2023,HarperCollins,Books,Fiction,164.2226026,1149.558218,7.0,11:32:07,Shipped,Express,Bad,1.0
+2060840,28588,2023-08-25,2023,Nike,Clothing,T-shirt,304.870197,2134.091379,7.0,17:08:50,Pending,Express,Good,3.0
+3421899,62301,2023-07-28,2023,Apple,Electronics,Smartphone,78.2191262,547.5338834,7.0,3:30:41,Delivered,Standard,Good,3.0
+2761901,79517,2024-02-12,2024,HarperCollins,Books,Non-Fiction,88.34788903,706.7831122,8.0,9:48:33,Shipped,Express,Bad,1.0
+1625398,76133,2024-02-27,2024,Zara,Clothing,Dress,37.71606481,264.0124537,7.0,16:27:33,Pending,Standard,Average,2.0
+5281561,65159,2023-06-09,2023,Sony,Electronics,Television,101.535408,1015.35408,10.0,9:51:14,Shipped,Same-Day,Good,3.0
+9484842,17558,2023-03-23,2023,Adidas,Clothing,Shoes,19.82197683,158.5758147,8.0,17:44:29,Delivered,Standard,Good,4.0
+9719734,95531,2023-03-27,2023,Nike,Clothing,Shoes,154.4532551,772.2662756,5.0,20:06:56,Pending,Express,Average,2.0
+9596556,36083,2023-03-16,2023,Nestle,Unknown,Chocolate,222.9131135,1560.391794,7.0,13:26:29,Shipped,Standard,Excellent,5.0
+2124439,74812,2023-11-22,2023,IKEA,Home Decor,Decorations,13.7230279,82.33816737,6.0,9:16:02,Processing,Same-Day,Average,2.0
+6146438,84556,2023-11-19,2023,Coca-Cola,Grocery,Water,357.6780371,357.6780371,1.0,5:01:04,Pending,Standard,Excellent,5.0
+2635116,91124,2023-03-26,2023,Nike,Clothing,Shoes,451.4462921,902.8925842,2.0,3:30:46,Processing,Same-Day,Good,4.0
+5212805,13082,2024-02-15,2024,Random House,Books,Literature,31.56501496,252.5201196,8.0,1:01:23,Shipped,Standard,Average,2.0
+4958322,29178,2023-09-02,2023,Sony,Electronics,Headphones,447.5789312,447.5789312,1.0,19:52:19,Pending,Express,Good,4.0
+7961588,68375,2023-09-15,2023,Nestle,Grocery,Coffee,458.1763995,1374.529198,3.0,23:49:36,Shipped,Same-Day,Excellent,4.0
+8966152,42739,2023-08-02,2023,Adidas,Clothing,Jacket,370.5443899,3705.443899,10.0,15:20:17,Delivered,Standard,Excellent,5.0
+7685751,89187,2023-09-30,2023,Apple,Electronics,Smartphone,43.07109758,129.2132927,3.0,4:34:05,Processing,Same-Day,Average,2.0
+1126150,36687,2023-06-03,2023,Home Depot,Home Decor,Decorations,456.8190335,3197.733235,7.0,17:46:26,Delivered,Express,Bad,1.0
+7267435,24363,2024-02-15,2024,Bed Bath & Beyond,Home Decor,Bedding,60.55796922,605.5796922,10.0,11:30:55,Pending,Express,Good,3.0
+5313296,31512,2023-03-03,2023,Pepsi,Grocery,Soft Drink,412.7570404,1238.271121,3.0,0:32:01,Shipped,Same-Day,Excellent,4.0
+7084758,90471,2023-08-13,2023,Home Depot,Home Decor,Tools,343.0640763,686.1281526,2.0,8:59:38,Delivered,Express,Average,2.0
+6179281,96361,2023-03-11,2023,Apple,Electronics,Tablet,338.0450513,3380.450513,10.0,21:54:08,Pending,Express,Good,3.0
+2000637,78399,2023-12-08,2023,Bed Bath & Beyond,Home Decor,Kitchen,122.3768951,244.7537902,2.0,17:44:32,Delivered,Express,Average,2.0
+2766292,15015,2023-04-08,2023,Zara,Clothing,Shirt,279.3441159,1117.376464,4.0,8:51:04,Shipped,Express,Average,2.0
+2053180,23951,2023-12-23,2023,Home Depot,Home Decor,Tools,404.8532595,2429.119557,6.0,20:58:44,Shipped,Same-Day,Excellent,4.0
+7242747,73394,2023-07-11,2023,HarperCollins,Books,Thriller,441.4359993,3972.923994,9.0,17:50:56,Shipped,Standard,Average,2.0
+2038772,98991,2023-05-19,2023,Coca-Cola,Grocery,Water,299.5818458,599.1636915,2.0,1:22:11,Shipped,Standard,Average,2.0
+7872156,74342,2023-03-30,2023,Home Depot,Home Decor,Decorations,340.909278,681.8185561,2.0,8:26:50,Processing,Standard,Excellent,5.0
+7204003,48869,2024-02-15,2024,Random House,Books,Non-Fiction,352.1290354,2464.903248,7.0,21:17:50,Shipped,Express,Good,4.0
+1515461,90915,2023-05-10,2023,Apple,Electronics,Tablet,309.843999,1859.063994,6.0,11:09:48,Delivered,Standard,Bad,1.0
+6856042,97487,2023-06-28,2023,Pepsi,Grocery,Water,472.6264585,1417.879376,3.0,19:58:32,Pending,Same-Day,Good,3.0
+1719847,47017,2023-09-18,2023,Pepsi,Grocery,Water,471.317362,2356.58681,5.0,11:42:14,Shipped,Standard,Excellent,5.0
+7872782,85089,2023-09-07,2023,Apple,Electronics,Laptop,444.9003519,1779.601408,4.0,13:29:37,Delivered,Standard,Good,3.0
+1886587,93886,2023-06-04,2023,HarperCollins,Books,Non-Fiction,250.2169905,750.6509715,3.0,4:08:06,Shipped,Same-Day,Excellent,4.0
+4205944,82024,2023-07-17,2023,Coca-Cola,Grocery,Juice,281.4771951,1688.86317,6.0,6:44:28,Shipped,Same-Day,Average,2.0
+3258024,92619,2023-09-02,2023,Adidas,Clothing,Jacket,311.0774669,1555.387334,5.0,8:01:58,Shipped,Same-Day,Good,3.0
+4199333,61101,2024-01-31,2024,Sony,Electronics,Television,427.0404326,3843.363894,9.0,12:05:55,Pending,Same-Day,Excellent,5.0
+7029596,21798,2023-08-27,2023,Bed Bath & Beyond,Home Decor,Bedding,206.0890612,1030.445306,5.0,9:55:09,Delivered,Express,Bad,1.0
+8209743,16615,2023-09-07,2023,Samsung,Electronics,Smartphone,22.74176786,136.4506071,6.0,21:55:22,Delivered,Express,Good,3.0
+3565493,16049,2023-11-09,2023,Adidas,Clothing,T-shirt,250.6921799,250.6921799,1.0,1:21:37,Shipped,Same-Day,Average,2.0
+5471383,52839,2023-06-10,2023,HarperCollins,Books,Non-Fiction,28.56114123,257.0502711,9.0,22:07:48,Delivered,Standard,Good,3.0
+7430587,55940,2023-12-15,2023,Bed Bath & Beyond,Home Decor,Bathroom,32.29740918,96.89222754,3.0,6:22:48,Delivered,Standard,Bad,1.0
+5067613,35446,2023-07-18,2023,Sony,Electronics,Headphones,61.88875778,61.88875778,1.0,20:55:25,Processing,Standard,Good,4.0
+1803037,69500,2023-03-15,2023,Penguin Books,Books,Fiction,195.6408058,195.6408058,1.0,6:59:07,Processing,Standard,Bad,1.0
+9871668,28591,2023-04-18,2023,IKEA,Home Decor,Decorations,261.8687921,1833.081545,7.0,1:59:40,Delivered,Same-Day,Good,3.0
+2314603,34792,2023-12-14,2023,Zara,Clothing,Jeans,458.1995564,2749.197338,6.0,12:31:33,Delivered,Express,Average,2.0
+1217487,69214,2023-03-08,2023,Nike,Clothing,T-shirt,474.7992607,2848.795564,6.0,19:19:34,Pending,Standard,Bad,1.0
+2629939,75243,2024-01-20,2024,HarperCollins,Books,Non-Fiction,408.9119794,2862.383856,7.0,16:08:15,Delivered,Express,Excellent,5.0
+2492168,40619,2023-11-06,2023,Pepsi,Grocery,Soft Drink,317.0015934,634.0031868,2.0,10:46:21,Processing,Express,Good,4.0
+8574194,50357,2023-12-06,2023,Penguin Books,Books,Children's,99.19707453,694.3795217,7.0,9:09:56,Delivered,Same-Day,Excellent,4.0
+5670981,36084,2023-06-26,2023,HarperCollins,Books,Non-Fiction,205.5250435,1849.725392,9.0,19:44:35,Delivered,Express,Bad,1.0
+4081468,57471,2023-12-05,2023,Pepsi,Grocery,Soft Drink,142.111214,1421.11214,10.0,20:44:01,Pending,Standard,Average,2.0
+6925817,85291,2023-10-18,2023,Nestle,Grocery,Chocolate,348.0031087,2088.018652,6.0,23:50:56,Processing,Same-Day,Excellent,4.0
+9423609,16683,2023-05-15,2023,Pepsi,Grocery,Water,41.75067581,41.75067581,1.0,1:33:21,Pending,Express,Average,2.0
+9209702,30293,2023-04-03,2023,Coca-Cola,Grocery,Juice,472.7983494,2363.991747,5.0,12:16:17,Pending,Standard,Good,4.0
+8257808,99944,2023-12-03,2023,Apple,Electronics,Smartphone,363.793973,1091.381919,3.0,20:31:58,Pending,Standard,Bad,1.0
+2145553,60481,2023-03-26,2023,Adidas,Clothing,Shoes,474.6467225,474.6467225,1.0,5:47:53,Pending,Express,Average,2.0
+7775388,91698,2024-02-28,2024,Coca-Cola,Grocery,Soft Drink,411.4355543,2057.177771,5.0,19:39:49,Processing,Standard,Bad,1.0
+5292389,44721,2023-06-21,2023,Zara,Clothing,Jeans,378.0900805,3024.720644,8.0,15:21:23,Delivered,Standard,Excellent,5.0
+3270773,96867,2024-01-07,2024,Nike,Clothing,Shorts,213.6794234,213.6794234,1.0,16:58:22,Pending,Express,Bad,1.0
+7988107,82671,2024-02-06,2024,Samsung,Electronics,Tablet,28.92910639,260.3619575,9.0,5:10:44,Delivered,Same-Day,Excellent,4.0
+5020401,35547,2023-10-31,2023,Nike,Clothing,Shorts,202.7153956,1013.576978,5.0,17:54:34,Pending,Express,Average,2.0
+6615647,50869,2024-02-17,2024,Apple,Electronics,Tablet,32.97593815,329.7593815,10.0,4:40:08,Shipped,Express,Bad,1.0
+3767002,66893,2023-10-02,2023,Sony,Electronics,Headphones,33.55364274,33.55364274,1.0,12:36:40,Pending,Standard,Average,2.0
+2286430,42358,2023-03-29,2023,Nike,Clothing,Shorts,174.9739514,349.9479029,2.0,14:28:00,Shipped,Express,Good,3.0
+2859196,73353,2023-03-18,2023,Adidas,Clothing,T-shirt,362.6219196,3626.219196,10.0,13:50:22,Pending,Standard,Excellent,4.0
+4578976,13610,2023-04-29,2023,HarperCollins,Books,Non-Fiction,145.054612,145.054612,1.0,4:37:18,Delivered,Express,Good,3.0
+4052364,29811,2023-06-26,2023,IKEA,Home Decor,Lighting,102.4032281,1024.032281,10.0,23:36:04,Delivered,Express,Excellent,4.0
+8243427,79548,2023-09-24,2023,Random House,Books,Literature,248.9749141,497.9498282,2.0,3:29:17,Processing,Standard,Bad,1.0
+3462909,15597,2023-04-27,2023,Penguin Books,Books,Children's,258.4188228,516.8376456,2.0,16:13:45,Shipped,Express,Excellent,5.0
+7662744,27115,2023-07-28,2023,Samsung,Electronics,Tablet,217.3069315,1086.534658,5.0,16:23:46,Processing,Same-Day,Excellent,4.0
+5396105,73862,2023-08-25,2023,Nike,Clothing,Shorts,172.5107515,1035.064509,6.0,5:11:43,Delivered,Same-Day,Average,2.0
+9904456,26241,2023-03-12,2023,IKEA,Home Decor,Decorations,231.9222752,1623.455926,7.0,6:43:11,Processing,Same-Day,Good,3.0
+3395821,62489,2023-03-15,2023,Sony,Electronics,Television,437.0575522,437.0575522,1.0,16:09:17,Processing,Same-Day,Bad,1.0
+5816644,38393,2023-05-13,2023,HarperCollins,Books,Fiction,403.8373731,3634.536358,9.0,11:37:12,Delivered,Express,Bad,1.0
+3410438,14771,2023-04-23,2023,Zara,Clothing,Shirt,362.1556343,2897.245074,8.0,22:16:55,Pending,Same-Day,Bad,1.0
+5004469,89926,2023-08-30,2023,Pepsi,Grocery,Juice,127.0050918,762.0305509,6.0,10:24:11,Shipped,Express,Excellent,4.0
+8084246,93000,2023-07-19,2023,HarperCollins,Books,Fiction,363.7069252,2545.948477,7.0,2:58:18,Pending,Standard,Bad,1.0
+7107984,99453,2023-11-30,2023,HarperCollins,Books,Thriller,348.4932251,2439.452576,7.0,15:09:28,Pending,Express,Good,4.0
+1166989,60009,2023-11-16,2023,Sony,Electronics,Headphones,337.9589089,3379.589089,10.0,22:09:31,Shipped,Standard,Excellent,4.0
+9846574,30224,2023-11-23,2023,IKEA,Home Decor,Furniture,143.6221789,287.2443578,2.0,1:08:27,Pending,Express,Good,4.0
+4954042,74095,2023-10-20,2023,HarperCollins,Books,Thriller,448.5892682,4037.303414,9.0,19:54:59,Delivered,Same-Day,Average,2.0
+3073877,24469,2023-09-01,2023,Coca-Cola,Grocery,Soft Drink,76.05765087,228.1729526,3.0,14:24:34,Pending,Same-Day,Good,4.0
+7355533,76027,2023-03-10,2023,Adidas,Clothing,Shoes,206.6432675,826.5730701,4.0,21:55:26,Shipped,Standard,Excellent,4.0
+1206659,68480,2023-11-30,2023,Zara,Clothing,Shirt,40.61129738,81.22259476,2.0,14:23:17,Pending,Standard,Excellent,5.0
+7636359,31763,2023-09-03,2023,Home Depot,Home Decor,Decorations,98.03374833,490.1687416,5.0,7:34:57,Processing,Same-Day,Good,3.0
+4668300,18113,2024-02-08,2024,Home Depot,Home Decor,Tools,445.4766216,2672.859729,6.0,11:00:53,Delivered,Express,Good,3.0
+8025037,57044,2023-11-27,2023,HarperCollins,Books,Thriller,214.2440706,856.9762823,4.0,16:44:55,Pending,Express,Good,3.0
+6989571,25041,2023-04-04,2023,Pepsi,Grocery,Soft Drink,211.7480634,1482.236444,7.0,14:44:37,Pending,Standard,Excellent,5.0
+3838929,30563,2024-01-25,2024,HarperCollins,Books,Fiction,402.447457,4024.47457,10.0,12:32:04,Processing,Same-Day,Excellent,4.0
+1787881,45693,2023-11-11,2023,Sony,Electronics,Television,54.65926446,382.6148512,7.0,5:17:11,Delivered,Same-Day,Bad,1.0
+4673562,43571,2023-12-08,2023,Random House,Books,Non-Fiction,207.0866948,207.0866948,1.0,5:26:07,Delivered,Express,Average,2.0
+2018159,66017,2023-12-14,2023,Home Depot,Home Decor,Tools,281.6146029,563.2292058,2.0,1:56:20,Delivered,Same-Day,Good,3.0
+7127278,45899,2023-04-16,2023,Home Depot,Home Decor,Furniture,218.7749551,437.5499102,2.0,10:40:30,Delivered,Standard,Excellent,4.0
+6654529,99025,2023-08-10,2023,IKEA,Home Decor,Lighting,424.9348227,4249.348227,10.0,23:17:34,Processing,Same-Day,Bad,1.0
+7226711,18515,2024-01-30,2024,Home Depot,Home Decor,Furniture,52.37746408,52.37746408,1.0,19:39:08,Delivered,Standard,Good,3.0
+9749364,75652,2023-06-22,2023,Coca-Cola,Grocery,Soft Drink,285.9094779,1429.547389,5.0,2:51:06,Processing,Standard,Excellent,5.0
+8709027,17165,2023-05-19,2023,Random House,Books,Literature,45.31829925,407.8646932,9.0,1:38:50,Delivered,Same-Day,Bad,1.0
+6675960,60597,2023-09-01,2023,Bed Bath & Beyond,Home Decor,Kitchen,442.2017321,1326.605196,3.0,5:53:15,Shipped,Same-Day,Good,3.0
+6171792,82260,2023-09-13,2023,Adidas,Clothing,Jacket,76.27663986,457.6598392,6.0,4:29:39,Processing,Express,Average,2.0
+6199408,41508,2024-01-03,2024,Pepsi,Grocery,Water,131.2025066,262.4050132,2.0,11:48:56,Delivered,Express,Excellent,5.0
+4480409,74540,2023-08-11,2023,Random House,Books,Non-Fiction,202.9103015,811.6412059,4.0,7:22:49,Pending,Standard,Average,2.0
+1363299,28607,2023-03-15,2023,Bed Bath & Beyond,Home Decor,Kitchen,365.8053294,731.6106587,2.0,4:28:46,Shipped,Express,Excellent,4.0
+8130970,13793,2023-07-22,2023,Adidas,Clothing,T-shirt,359.4548096,1437.819239,4.0,14:49:04,Delivered,Express,Bad,1.0
+1355949,21174,2024-02-26,2024,IKEA,Home Decor,Furniture,284.6393973,1138.557589,4.0,17:36:57,Pending,Same-Day,Average,2.0
+7476905,33107,2023-12-26,2023,Nike,Clothing,Shoes,413.6096683,2895.267678,7.0,18:05:28,Delivered,Same-Day,Excellent,5.0
+8336265,13081,2024-01-31,2024,Home Depot,Home Decor,Tools,196.2180008,1373.526006,7.0,4:44:24,Processing,Express,Bad,1.0
+7029006,17458,2023-12-13,2023,Home Depot,Home Decor,Furniture,233.6114572,1168.057286,5.0,8:53:47,Delivered,Express,Excellent,4.0
+3752112,28830,2023-12-04,2023,Penguin Books,Books,Non-Fiction,297.0778693,297.0778693,1.0,23:16:43,Delivered,Express,Excellent,4.0
+4138405,77374,2023-09-24,2023,Samsung,Electronics,Television,179.7135684,179.7135684,1.0,11:00:54,Delivered,Standard,Good,4.0
+4110889,15891,2023-04-18,2023,Coca-Cola,Grocery,Soft Drink,481.2579413,481.2579413,1.0,3:37:54,Pending,Same-Day,Average,2.0
+6343277,98301,2023-03-27,2023,Random House,Books,Non-Fiction,196.9273522,196.9273522,1.0,8:29:08,Pending,Same-Day,Good,3.0
+8274674,14091,2023-04-27,2023,Samsung,Electronics,Tablet,469.9013575,4229.112217,9.0,6:30:46,Shipped,Same-Day,Good,3.0
+4207988,17065,2024-02-12,2024,Coca-Cola,Grocery,Water,229.7945618,689.3836855,3.0,11:37:55,Delivered,Express,Bad,1.0
+4530973,87673,2023-03-04,2023,Samsung,Electronics,Smartphone,397.6926392,1193.077918,3.0,10:58:31,Shipped,Same-Day,Average,2.0
+6650035,17901,2023-09-22,2023,IKEA,Home Decor,Furniture,388.1323319,2716.926323,7.0,0:12:15,Delivered,Standard,Average,2.0
+9302527,49047,2023-09-03,2023,Bed Bath & Beyond,Home Decor,Bedding,258.43807,1809.06649,7.0,17:51:52,Shipped,Express,Bad,1.0
+1175370,77311,2024-01-26,2024,Apple,Electronics,Laptop,441.3049321,3089.134525,7.0,15:37:48,Shipped,Express,Excellent,5.0
+4832261,38047,2024-01-26,2024,Nestle,Grocery,Chocolate,317.1289408,951.3868225,3.0,20:49:58,Processing,Same-Day,Bad,1.0
+8305001,45455,2023-03-10,2023,Adidas,Clothing,T-shirt,103.5787378,725.0511643,7.0,6:52:52,Delivered,Same-Day,Good,4.0
+3143821,64636,2024-01-26,2024,Pepsi,Grocery,Soft Drink,240.4722572,1923.778058,8.0,15:16:48,Shipped,Express,Average,2.0
+8780917,82551,2023-08-15,2023,Pepsi,Grocery,Juice,355.090294,2485.632058,7.0,2:40:10,Processing,Express,Good,3.0
+2821321,83578,2023-12-05,2023,Coca-Cola,Grocery,Juice,474.178411,4267.605699,9.0,14:17:31,Shipped,Same-Day,Bad,1.0
+1570299,83650,2023-06-18,2023,IKEA,Home Decor,Lighting,90.65526124,181.3105225,2.0,8:34:59,Delivered,Same-Day,Bad,1.0
+8728095,40705,2023-03-11,2023,Zara,Clothing,Shirt,497.5319314,3980.255451,8.0,4:27:00,Shipped,Same-Day,Bad,1.0
+9420169,89029,2023-05-28,2023,Nestle,Grocery,Coffee,369.0474109,2583.331876,7.0,5:53:03,Pending,Express,Average,2.0
+6387070,93214,2023-09-01,2023,Zara,Clothing,Shirt,292.2456891,292.2456891,1.0,12:47:16,Processing,Same-Day,Average,2.0
+4143798,49192,2023-09-21,2023,Penguin Books,Books,Children's,428.0598112,428.0598112,1.0,20:54:32,Pending,Express,Good,4.0
+9363644,89992,2023-12-12,2023,Random House,Books,Fiction,371.9893263,2231.935958,6.0,22:52:21,Pending,Express,Good,3.0
+2973546,63588,2023-10-14,2023,Sony,Electronics,Smartphone,388.2122499,1552.848999,4.0,10:00:19,Delivered,Same-Day,Good,3.0
+3139836,38486,2023-11-07,2023,Random House,Books,Literature,123.6168965,741.7013791,6.0,12:14:36,Delivered,Same-Day,Average,2.0
+6023169,64153,2023-12-19,2023,HarperCollins,Books,Thriller,204.4017356,1226.410413,6.0,23:31:03,Processing,Express,Good,3.0
+5707272,15992,2023-04-06,2023,Coca-Cola,Grocery,Juice,195.2749455,781.099782,4.0,11:27:27,Processing,Standard,Bad,1.0
+8342496,43083,2023-05-08,2023,IKEA,Home Decor,Decorations,158.7917034,317.5834067,2.0,16:47:30,Pending,Same-Day,Excellent,4.0
+1944115,36536,2023-03-08,2023,Bed Bath & Beyond,Home Decor,Kitchen,148.4692804,1336.223524,9.0,21:28:53,Processing,Express,Excellent,5.0
+7637365,23631,2024-02-29,2024,Apple,Electronics,Smartphone,159.507104,1435.563936,9.0,3:41:21,Shipped,Standard,Excellent,5.0
+3830638,97323,2023-05-09,2023,Apple,Electronics,Smartphone,467.769774,2806.618644,6.0,15:33:51,Delivered,Express,Excellent,4.0
+6516806,27104,2023-03-11,2023,Penguin Books,Books,Children's,76.44320028,152.8864006,2.0,4:15:35,Processing,Express,Excellent,4.0
+2690040,67876,2024-02-01,2024,Pepsi,Grocery,Juice,304.3074938,608.6149876,2.0,3:49:38,Shipped,Express,Good,3.0
+1209755,26917,2023-05-03,2023,Pepsi,Grocery,Juice,286.5908138,1719.544883,6.0,0:23:04,Processing,Express,Excellent,5.0
+4554224,71298,2023-03-21,2023,Samsung,Electronics,Tablet,247.7689094,1734.382366,7.0,10:00:08,Shipped,Express,Excellent,5.0
+5777205,20280,2023-12-05,2023,Zara,Clothing,Jeans,448.712769,4487.12769,10.0,13:55:19,Delivered,Same-Day,Average,2.0
+8051821,25788,2023-11-04,2023,IKEA,Home Decor,Lighting,167.6740216,838.3701078,5.0,1:30:50,Delivered,Same-Day,Excellent,4.0
+6965254,88395,2023-09-10,2023,Coca-Cola,Grocery,Juice,277.5296621,1110.118649,4.0,2:37:34,Processing,Same-Day,Good,3.0
+5514598,38195,2024-02-09,2024,Bed Bath & Beyond,Home Decor,Kitchen,155.6339316,1556.339316,10.0,17:06:56,Pending,Same-Day,Average,2.0
+5224569,80072,2023-05-13,2023,Random House,Books,Fiction,213.1090949,1704.87276,8.0,14:43:30,Pending,Standard,Average,2.0
+4669285,64275,2023-04-20,2023,Pepsi,Grocery,Juice,451.8677874,4518.677874,10.0,17:08:29,Processing,Standard,Good,3.0
+6176628,74784,2023-04-11,2023,Nestle,Grocery,Chocolate,62.3185161,311.5925805,5.0,15:10:13,Shipped,Standard,Excellent,5.0
+9169342,40091,2023-12-03,2023,Random House,Books,Fiction,248.0791805,1488.475083,6.0,20:27:38,Shipped,Standard,Bad,1.0
+1121415,96958,2023-09-21,2023,Random House,Books,Non-Fiction,18.16284801,18.16284801,1.0,16:15:37,Pending,Standard,Good,4.0
+2075646,63956,2023-05-18,2023,Home Depot,Home Decor,Decorations,476.7627166,2860.5763,6.0,21:14:40,Pending,Express,Bad,1.0
+1283620,82346,2023-04-18,2023,HarperCollins,Books,Thriller,440.8512145,2204.256073,5.0,23:27:35,Processing,Express,Excellent,4.0
+4501991,31998,2023-09-25,2023,Random House,Books,Non-Fiction,481.8797422,4336.91768,9.0,20:08:01,Delivered,Standard,Good,4.0
+2207555,28302,2023-07-23,2023,IKEA,Home Decor,Lighting,201.0378081,603.1134243,3.0,22:14:57,Delivered,Standard,Excellent,5.0
+5282726,22848,2023-05-23,2023,IKEA,Home Decor,Decorations,285.3410977,570.6821954,2.0,13:49:03,Processing,Standard,Good,4.0
+5202314,22042,2023-07-31,2023,Nestle,Grocery,Coffee,483.1771037,966.3542074,2.0,7:00:22,Shipped,Same-Day,Excellent,5.0
+2110835,38014,2023-09-20,2023,IKEA,Home Decor,Decorations,99.00239094,198.0047819,2.0,19:10:02,Processing,Express,Average,2.0
+3317106,29568,2023-09-15,2023,Home Depot,Home Decor,Furniture,55.7131033,55.7131033,1.0,21:16:51,Delivered,Same-Day,Bad,1.0
+7943755,43434,2023-10-25,2023,Pepsi,Grocery,Water,346.2257946,1731.128973,5.0,9:24:21,Delivered,Standard,Good,4.0
+4179977,39794,2023-03-03,2023,HarperCollins,Books,Non-Fiction,353.2729804,706.5459608,2.0,22:59:10,Shipped,Express,Good,4.0
+4242791,30209,2023-03-15,2023,Adidas,Clothing,Shoes,306.4115238,612.8230476,2.0,18:10:03,Processing,Same-Day,Good,4.0
+8221142,56437,2023-07-09,2023,Random House,Books,Fiction,29.75683421,208.2978395,7.0,22:54:58,Shipped,Standard,Average,2.0
+9844506,56970,2023-04-04,2023,Bed Bath & Beyond,Home Decor,Bathroom,352.8318542,3528.318542,10.0,10:02:33,Pending,Same-Day,Good,3.0
+4190867,35511,2024-02-11,2024,Adidas,Clothing,T-shirt,105.8696557,635.2179339,6.0,2:26:09,Shipped,Express,Bad,1.0
+8380095,80891,2024-02-15,2024,Nestle,Grocery,Chocolate,361.2688358,3612.688358,10.0,23:51:48,Delivered,Same-Day,Bad,1.0
+8902436,72108,2023-03-08,2023,IKEA,Home Decor,Furniture,13.5067631,13.5067631,1.0,7:38:00,Delivered,Express,Average,2.0
+4583042,14984,2023-07-29,2023,Nestle,Grocery,Coffee,412.5104684,2887.573279,7.0,15:29:18,Processing,Standard,Bad,1.0
+9699039,55747,2023-03-30,2023,Samsung,Electronics,Tablet,433.5464673,867.0929346,2.0,1:56:20,Delivered,Standard,Average,2.0
+5617367,82021,2023-08-30,2023,Penguin Books,Books,Non-Fiction,157.3436966,1573.436966,10.0,14:41:57,Pending,Same-Day,Bad,1.0
+1566437,23547,2023-11-20,2023,IKEA,Home Decor,Decorations,253.5638284,507.1276567,2.0,21:31:18,Pending,Standard,Bad,1.0
+9766243,41485,2023-09-23,2023,Home Depot,Home Decor,Decorations,434.8028596,1304.408579,3.0,18:35:05,Delivered,Standard,Good,4.0
+2060723,97340,2023-07-12,2023,Pepsi,Grocery,Soft Drink,162.9737262,814.8686308,5.0,8:08:40,Delivered,Same-Day,Excellent,4.0
+3015432,12790,2023-03-21,2023,Pepsi,Grocery,Juice,478.9985501,2873.9913,6.0,0:14:16,Shipped,Standard,Bad,1.0
+8498173,84624,2024-01-21,2024,Pepsi,Grocery,Water,221.8519968,2218.519968,10.0,1:15:19,Delivered,Express,Excellent,5.0
+6964312,72646,2023-03-12,2023,Nestle,Grocery,Snacks,23.94875369,191.5900295,8.0,6:14:33,Pending,Express,Average,2.0
+7726505,53375,2023-06-07,2023,HarperCollins,Books,Non-Fiction,76.38321017,229.1496305,3.0,20:48:11,Pending,Express,Bad,1.0
+7196203,15041,2023-11-17,2023,Apple,Electronics,Smartphone,481.8591777,2409.295889,5.0,2:10:57,Shipped,Standard,Average,2.0
+4809422,19347,2023-05-23,2023,Random House,Books,Fiction,453.0232966,3624.186373,8.0,2:54:34,Pending,Express,Average,2.0
+4963956,98120,2023-10-08,2023,Home Depot,Home Decor,Tools,39.85311095,318.8248876,8.0,12:52:32,Processing,Standard,Good,3.0
+8215539,22107,2023-05-13,2023,Home Depot,Home Decor,Tools,27.24352562,136.2176281,5.0,9:23:55,Processing,Express,Bad,1.0
+1469346,84395,2024-02-04,2024,Apple,Electronics,Smartphone,55.44417186,221.7766874,4.0,4:03:13,Delivered,Same-Day,Good,4.0
+8071729,90796,2023-11-06,2023,Nike,Clothing,Shorts,158.4289608,158.4289608,1.0,5:26:32,Processing,Same-Day,Good,3.0
+9889304,72463,2023-03-14,2023,Apple,Electronics,Smartphone,16.97707056,135.8165645,8.0,16:24:35,Pending,Standard,Bad,1.0
+4138830,17705,2023-07-14,2023,HarperCollins,Unknown,Non-Fiction,64.80243279,324.0121639,5.0,18:24:33,Pending,Same-Day,Excellent,5.0
+5590605,70727,2024-01-03,2024,Apple,Electronics,Laptop,204.0995385,408.1990769,2.0,16:44:57,Delivered,Standard,Average,2.0
+6571685,72707,2023-09-27,2023,Apple,Electronics,Tablet,264.2371044,1056.948418,4.0,3:26:45,Delivered,Standard,Bad,1.0
+9261762,98764,2023-07-02,2023,HarperCollins,Books,Non-Fiction,309.9636382,1239.854553,4.0,13:06:27,Processing,Express,Good,3.0
+8556117,89722,2023-08-06,2023,Apple,Electronics,Tablet,435.6825759,4356.825759,10.0,12:50:34,Pending,Express,Average,2.0
+3406772,41496,2023-06-17,2023,Samsung,Electronics,Television,195.8041139,195.8041139,1.0,13:16:16,Shipped,Same-Day,Bad,1.0
+7215648,85908,2023-03-20,2023,IKEA,Home Decor,Lighting,279.4940344,1117.976138,4.0,1:05:31,Pending,Standard,Bad,1.0
+9185879,10010,2023-09-24,2023,Zara,Clothing,Shirt,178.6646437,1429.31715,8.0,15:41:31,Delivered,Same-Day,Excellent,4.0
+3556585,55609,2024-01-31,2024,Adidas,Clothing,T-shirt,221.0743772,663.2231315,3.0,22:30:49,Pending,Standard,Good,3.0
+6748475,26560,2023-11-20,2023,Bed Bath & Beyond,Home Decor,Bathroom,442.4349323,3981.91439,9.0,8:57:48,Delivered,Same-Day,Average,2.0
+2011310,75834,2023-06-13,2023,Samsung,Electronics,Smartphone,228.2142203,1597.499542,7.0,5:42:46,Pending,Standard,Average,2.0
+3657578,98004,2023-03-08,2023,Zara,Clothing,Jeans,243.8367825,1706.857477,7.0,8:31:22,Shipped,Standard,Average,2.0
+9889077,67818,2023-04-07,2023,IKEA,Home Decor,Decorations,160.0870523,1280.696418,8.0,23:53:23,Pending,Same-Day,Excellent,5.0
+2691054,51655,2023-10-21,2023,HarperCollins,Books,Non-Fiction,357.6723922,2146.034353,6.0,15:18:34,Pending,Same-Day,Bad,1.0
+8900433,39665,2023-07-09,2023,Pepsi,Grocery,Soft Drink,74.8957717,74.8957717,1.0,1:14:53,Pending,Standard,Excellent,5.0
+3356175,65112,2023-09-12,2023,Nike,Clothing,Shorts,135.413608,135.413608,1.0,1:04:37,Pending,Same-Day,Good,4.0
+5879553,13459,2024-01-05,2024,Adidas,Clothing,Jacket,431.1162034,431.1162034,1.0,4:13:49,Shipped,Standard,Excellent,4.0
+5670261,14341,2023-07-13,2023,Apple,Electronics,Laptop,389.8574025,1559.42961,4.0,2:46:19,Processing,Standard,Good,4.0
+5604834,39167,2023-03-04,2023,Pepsi,Grocery,Juice,436.0545554,436.0545554,1.0,7:02:10,Delivered,Standard,Average,2.0
+9129532,11029,2023-05-09,2023,Random House,Books,Fiction,226.807244,226.807244,1.0,15:57:31,Pending,Standard,Good,4.0
+8991228,42624,2023-08-02,2023,Home Depot,Home Decor,Furniture,332.4281645,1994.568987,6.0,23:23:28,Pending,Express,Bad,1.0
+7165666,62402,2023-12-10,2023,Nestle,Grocery,Coffee,16.67201277,66.68805109,4.0,6:16:35,Processing,Same-Day,Average,2.0
+1147112,20692,2023-07-12,2023,Penguin Books,Books,Children's,118.5741697,118.5741697,1.0,12:27:15,Pending,Standard,Bad,1.0
+8388105,55182,2023-09-06,2023,Nike,Clothing,Shoes,240.7701742,1685.39122,7.0,20:12:19,Shipped,Standard,Excellent,4.0
+7513061,84643,2023-03-13,2023,Pepsi,Grocery,Water,367.9836592,1839.918296,5.0,12:18:21,Shipped,Express,Good,3.0
+2670235,23180,2023-09-11,2023,Pepsi,Grocery,Juice,197.9684173,593.905252,3.0,1:14:35,Processing,Standard,Average,2.0
+5256338,75024,2023-05-31,2023,Coca-Cola,Grocery,Soft Drink,331.8392282,331.8392282,1.0,10:24:06,Pending,Express,Good,4.0
+5325812,23314,2023-11-16,2023,Penguin Books,Books,Children's,74.51331221,596.1064977,8.0,21:22:50,Shipped,Express,Average,2.0
+3577079,25390,2024-02-05,2024,Samsung,Electronics,Television,183.4565201,1100.73912,6.0,18:59:57,Delivered,Standard,Excellent,5.0
+2530387,82606,2023-10-18,2023,Samsung,Electronics,Tablet,239.5479634,1197.739817,5.0,0:57:47,Shipped,Same-Day,Bad,1.0
+7708883,66590,2023-11-14,2023,IKEA,Home Decor,Furniture,273.5589193,1641.353516,6.0,4:14:36,Pending,Same-Day,Good,4.0
+8453854,63858,2023-05-12,2023,Nike,Clothing,T-shirt,468.5751837,1405.725551,3.0,20:00:33,Processing,Standard,Excellent,5.0
+3882390,89973,2023-09-17,2023,HarperCollins,Books,Thriller,120.9730613,483.8922451,4.0,12:13:49,Delivered,Express,Average,2.0
+1330153,12267,2024-01-15,2024,Bed Bath & Beyond,Home Decor,Bedding,162.8656439,162.8656439,1.0,3:11:16,Shipped,Express,Bad,1.0
+6201345,11789,2023-06-19,2023,Adidas,Clothing,T-shirt,59.18549648,532.6694684,9.0,5:16:26,Shipped,Same-Day,Excellent,5.0
+9470637,47082,2023-09-08,2023,Sony,Electronics,Smartphone,171.5176777,1200.623744,7.0,4:57:59,Shipped,Express,Average,2.0
+6025565,28353,2023-08-04,2023,Pepsi,Grocery,Juice,432.7880819,2163.94041,5.0,22:32:45,Shipped,Standard,Good,4.0
+1387434,38337,2023-05-09,2023,Pepsi,Grocery,Soft Drink,472.8217238,2836.930343,6.0,14:35:39,Delivered,Standard,Bad,1.0
+2798736,29257,2023-09-15,2023,Pepsi,Grocery,Water,186.1900665,1489.520532,8.0,18:02:14,Pending,Standard,Average,2.0
+3338656,21397,2024-01-31,2024,Home Depot,Home Decor,Furniture,207.9377672,2079.377672,10.0,0:50:15,Pending,Standard,Average,2.0
+9315490,51531,2023-07-16,2023,Apple,Electronics,Laptop,94.21866995,565.3120197,6.0,11:37:09,Delivered,Express,Good,4.0
+9702392,75848,2024-02-10,2024,HarperCollins,Books,Thriller,438.1164654,3943.048189,9.0,13:37:23,Pending,Same-Day,Excellent,4.0
+6236187,82677,2023-03-23,2023,HarperCollins,Books,Thriller,377.359269,1886.796345,5.0,11:04:21,Pending,Express,Average,2.0
+7243960,66020,2023-07-23,2023,Adidas,Clothing,Shoes,229.3227013,687.9681038,3.0,8:32:08,Processing,Same-Day,Good,4.0
+6649934,14855,2023-10-10,2023,Nestle,Grocery,Chocolate,194.6685408,389.3370816,2.0,15:07:25,Processing,Standard,Average,2.0
+4893754,99058,2023-03-07,2023,Bed Bath & Beyond,Home Decor,Kitchen,231.5138445,1389.083067,6.0,14:05:46,Delivered,Express,Excellent,5.0
+9661702,11381,2023-06-02,2023,Sony,Electronics,Smartphone,127.155022,254.3100441,2.0,9:44:24,Processing,Same-Day,Bad,1.0
+9627400,97549,2023-11-26,2023,Penguin Books,Books,Non-Fiction,475.5346608,4755.346608,10.0,1:03:58,Delivered,Same-Day,Bad,1.0
+9736484,32669,2023-09-09,2023,Nike,Clothing,Shoes,147.4081401,1031.856981,7.0,20:03:19,Delivered,Express,Bad,1.0
+9094852,61308,2023-10-27,2023,Nike,Clothing,T-shirt,498.0170234,2490.085117,5.0,21:22:49,Shipped,Express,Bad,1.0
+8171449,14663,2023-09-04,2023,Sony,Electronics,Smartphone,479.1198663,1437.359599,3.0,15:06:11,Pending,Standard,Bad,1.0
+4365027,97143,2023-12-23,2023,Zara,Clothing,Shirt,285.1687351,2566.518616,9.0,4:08:48,Delivered,Express,Average,2.0
+7647671,93553,2023-06-20,2023,Adidas,Clothing,Jacket,125.0114069,625.0570345,5.0,2:24:24,Processing,Standard,Bad,1.0
+1886519,36836,2023-05-24,2023,Coca-Cola,Grocery,Juice,340.7418428,1022.225528,3.0,9:52:38,Processing,Same-Day,Good,4.0
+3690467,62308,2023-08-19,2023,Zara,Clothing,Dress,464.4556779,1393.367034,3.0,17:52:53,Pending,Same-Day,Bad,1.0
+6583026,41424,2023-05-20,2023,Samsung,Electronics,Tablet,67.05625933,603.5063339,9.0,3:20:52,Processing,Same-Day,Good,3.0
+9517916,44149,2023-07-04,2023,Coca-Cola,Grocery,Soft Drink,434.4834194,3475.867355,8.0,13:22:51,Delivered,Same-Day,Average,2.0
+4066984,61816,2023-05-06,2023,Penguin Books,Books,Fiction,466.7216035,4667.216035,10.0,1:03:57,Delivered,Express,Excellent,4.0
+4213879,30165,2023-03-05,2023,HarperCollins,Books,Thriller,381.7902661,1527.161064,4.0,11:37:35,Pending,Standard,Excellent,4.0
+9260448,44339,2023-05-29,2023,Home Depot,Home Decor,Decorations,11.21281704,56.06408522,5.0,17:41:00,Pending,Express,Good,4.0
+8930244,95441,2023-05-31,2023,Nike,Clothing,Shoes,265.1970086,2651.970086,10.0,13:54:08,Pending,Express,Excellent,4.0
+7169620,99652,2023-11-30,2023,Sony,Electronics,Smartphone,311.8941531,2495.153225,8.0,15:34:48,Pending,Same-Day,Bad,1.0
+2306788,87457,2023-03-27,2023,Pepsi,Grocery,Water,132.8698113,132.8698113,1.0,22:06:01,Pending,Same-Day,Good,4.0

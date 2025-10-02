@@ -1,0 +1,499 @@
+Customer_ID,Name,Email,Phone,Address,City,State,Zipcode,Country,Age,Gender,Income,Customer_Segment
+37249,Michelle Harrington,Ebony39@gmail.com,1414786801,3959 Amanda Burgs,Dortmund,Berlin,77985,Germany,21.0,Male,Low,Regular
+69749,Kelsey Hill,Mark36@gmail.com,6852899987,82072 Dawn Centers,Nottingham,England,99071,UK,19.0,Female,Low,Premium
+30192,Scott Jensen,Shane85@gmail.com,8362160449,4133 Young Canyon,Geelong,New South Wales,75929,Australia,48.0,Male,Low,Regular
+62101,Joseph Miller,Mary34@gmail.com,2776751724,8148 Thomas Creek Suite 100,Edmonton,Ontario,88420,Canada,56.0,Male,High,Premium
+27901,Debra Coleman,Charles30@gmail.com,9098267635,5813 Lori Ports Suite 269,Bristol,England,48704,UK,22.0,Male,Low,Premium
+41289,Ryan Johnson,Haley12@gmail.com,3292677006,532 Ashley Crest Suite 014,Brisbane,New South Wales,74430,Australia,58.0,Female,Medium,Premium
+97285,Erin Lewis,Arthur76@gmail.com,1578355423,600 Brian Prairie Suite 497,Kitchener,Ontario,47545,Canada,29.0,Female,Low,New
+26603,Angela Fields,Tanya94@gmail.com,3668096144,237 Young Curve,Munich,Berlin,86862,Germany,29.0,Male,Medium,Premium
+80175,Diane Clark,Martin39@gmail.com,6219779557,8823 Mariah Heights Apt. 263,Wollongong,New South Wales,39820,Australia,46.0,Male,Medium,New
+31878,Lori Bell,Jessica33@gmail.com,6004895059,6225 William Lodge,Cologne,Berlin,64317,Germany,25.0,Male,Medium,New
+19136,Jonathan Eaton,Mark38@gmail.com,2996714102,9772 Sosa Coves,Portsmouth,England,59280,UK,64.0,Female,Low,Regular
+66883,Brianna Oconnor,David47@gmail.com,9398168800,95471 Jerry Hollow Suite 034,Portsmouth,England,91253,UK,31.0,Female,Medium,Regular
+31930,Kristine Williams,Charles29@gmail.com,1822767586,60629 Jones Villages,Portsmouth,England,38173,UK,56.0,Female,Medium,Regular
+74671,Felicia Brown,Laura72@gmail.com,8869644441,381 Richard Plaza,Portsmouth,England,32061,UK,53.0,Female,Medium,Regular
+98300,Andrew Guzman,Eric76@gmail.com,2923044936,470 Rodriguez Estate Suite 564,Portsmouth,England,5259,UK,32.0,Female,High,Regular
+64995,Justin Lara,Jacob26@gmail.com,2683281702,3577 Cole Stream Apt. 351,Portsmouth,England,9845,UK,43.0,Male,Medium,Regular
+69939,Jessica Harrison,Anne45@gmail.com,2540232555,93806 Murphy Avenue Apt. 919,Portsmouth,England,84007,UK,69.0,Male,Low,Regular
+71803,Alicia Knight,Jennifer1@gmail.com,6262218202,9856 Meyers Road Apt. 698,Portsmouth,England,91967,UK,19.0,Female,High,Regular
+78376,Ronald Chen,Nicole72@gmail.com,1796133281,6048 Charles Lake,Portsmouth,England,82975,UK,49.0,Male,Low,Regular
+40654,Sara Rogers,Jeff99@gmail.com,2687947826,6048 Charles Knoll Suite 755,Portsmouth,England,3035,UK,69.0,Male,Low,Regular
+42165,Daniel Hutchinson,Oscar54@gmail.com,9604443902,37402 Williams Stream Apt. 779,Portsmouth,England,29119,UK,46.0,Male,Low,Regular
+63914,Joshua Noble,Diana25@gmail.com,5383491869,7467 Henry Port,Portsmouth,England,16385,UK,61.0,Male,High,Regular
+42410,Anthony Rodriguez,Paula49@gmail.com,3745118170,585 Malik Lodge Suite 186,Portsmouth,England,83903,UK,21.0,Female,Low,Regular
+48869,Ashley Watson,Christine23@gmail.com,3296155904,6088 Sandra Streets Suite 952,Portsmouth,England,38435,UK,41.0,Female,Low,Regular
+99870,Timothy Benton,Thomas4@gmail.com,4754633123,424 Patton Parkways Apt. 545,Portsmouth,England,2916,UK,38.0,Male,Medium,Regular
+47037,Mike Christensen,Olivia95@gmail.com,3605880512,753 Rachel Lodge Apt. 514,Portsmouth,England,92862,UK,59.0,Male,High,Regular
+28381,Kimberly Evans,Claire78@gmail.com,8215497648,2445 Clayton Spur,Portsmouth,England,30007,UK,20.0,Male,High,Regular
+23097,Michael Cole,Rachel75@gmail.com,6487484685,0777 Rebecca Junctions Apt. 015,Portsmouth,England,14668,UK,67.0,Male,Low,Regular
+42540,Robin Jackson,James3@gmail.com,4258351481,8306 Daniel Parkways Suite 768,Portsmouth,England,62300,UK,43.0,Male,Medium,Regular
+55388,Yolanda Martin,Emily94@gmail.com,2450716315,62142 Karen Motorway Apt. 324,Portsmouth,England,63093,UK,50.0,Male,Medium,Regular
+98256,Steven Boyd,Sheryl18@gmail.com,5248581519,1719 Christina Heights Apt. 614,Portsmouth,England,43602,UK,26.0,Female,Low,Regular
+90935,Raymond Avila,Christopher4@gmail.com,4298839653,374 Snyder Forges,Portsmouth,England,94428,UK,56.0,Female,Low,Regular
+65701,Christopher Lopez,Derrick51@gmail.com,9286274243,57136 Martha Common Apt. 654,Portsmouth,England,11531,UK,66.0,Male,Medium,Regular
+23713,Brent Gonzalez,Steven94@gmail.com,4886316564,881 Beth Branch,Portsmouth,England,55997,UK,31.0,Male,Low,Regular
+66911,Anne Dominguez,Christian61@gmail.com,9654611085,704 Steven Falls,Portsmouth,England,71994,UK,24.0,Female,Low,Regular
+38517,Todd Jackson,Daniel66@gmail.com,6019608363,85473 Palmer Island Suite 041,Portsmouth,England,43394,UK,54.0,Male,Low,Regular
+65305,Jonathan Jenkins,Christina19@gmail.com,8524180606,890 Brooks Pine,Portsmouth,England,68300,UK,19.0,Male,High,Regular
+31767,Brittany Ross,Lindsey16@gmail.com,3325233576,61440 Andrew Spurs,Portsmouth,England,15127,UK,28.0,Male,High,Regular
+30637,Mike Orozco,Kimberly48@gmail.com,8321157649,8887 Alexander Avenue Apt. 947,Portsmouth,England,79514,UK,34.0,Female,High,Regular
+96840,Susan Thomas,Bonnie80@gmail.com,9540868010,48415 Ferguson Passage,Portsmouth,England,85074,UK,65.0,Male,Low,Regular
+25848,Emma Palmer,Lisa7@gmail.com,8200797318,416 Angel Manors,Portsmouth,England,42516,UK,40.0,Male,High,Regular
+91172,Amanda Decker,Heather92@gmail.com,8187509611,569 James Heights Suite 460,Portsmouth,England,89908,UK,64.0,Female,High,Regular
+77572,Jose Spencer,Amber67@gmail.com,8282194753,02936 Roy Village,Portsmouth,England,98771,UK,68.0,Female,High,Regular
+46361,Priscilla Wiggins,Patricia51@gmail.com,3936281494,0430 Moody Divide Suite 144,Portsmouth,England,35203,UK,46.0,Male,High,Regular
+62464,Michele Johnson,Melissa70@gmail.com,1946509510,622 Diana Circle Suite 748,Portsmouth,England,15160,UK,58.0,Female,High,Regular
+74096,Robert Warren,Hannah73@gmail.com,1223810454,489 Kerr Island,Portsmouth,England,12030,UK,36.0,Male,Low,Regular
+21399,Mario Smith,Joshua69@gmail.com,2206920632,192 Kimberly Shoals Apt. 984,Portsmouth,England,85340,UK,57.0,Male,High,Regular
+39757,Lauren Hayes,Haley88@gmail.com,5845365608,726 Eaton Squares,Portsmouth,England,58226,UK,27.0,Female,Medium,Regular
+90189,Maria Tucker,Amber14@gmail.com,1967923713,34455 Foster Coves,Portsmouth,England,44399,UK,35.0,Female,Medium,Regular
+86575,Derek Green,Sara74@gmail.com,8380306730,33744 April Lock,Portsmouth,England,14086,UK,57.0,Female,Medium,Regular
+19303,Rachel Hobbs,Daniel23@gmail.com,4797743217,02019 Meyers Ranch Apt. 226,Portsmouth,England,30346,UK,36.0,Male,Low,Regular
+12911,Chelsea Cummings,Daniel55@gmail.com,9050662623,336 Sara Run,Portsmouth,England,27283,UK,69.0,Male,High,Regular
+71257,Bryan Edwards,Gregory3@gmail.com,8840187601,816 Annette Shoals Suite 901,Portsmouth,England,94747,UK,59.0,Male,High,Regular
+75456,Christopher Burgess,Tonya57@gmail.com,7162191577,707 Michael View,Portsmouth,England,87547,UK,38.0,Female,High,Regular
+50574,James Church,Andrew57@gmail.com,8003867018,7645 Stewart Mountains,Portsmouth,England,52548,UK,46.0,Male,Low,Regular
+81200,Tony Moon,Brandon73@gmail.com,2088509822,28526 Sanders Spurs,Portsmouth,England,15193,UK,24.0,Male,Medium,Regular
+21381,Stanley Quinn,April67@gmail.com,5514223595,0517 Bernard Forges,Portsmouth,England,36935,UK,67.0,Male,Medium,Regular
+71121,Heather Sloan,Taylor13@gmail.com,6417356036,55047 Ashley Common Apt. 748,Portsmouth,England,60085,UK,54.0,Female,High,Regular
+64722,Richard Morales,Elizabeth40@gmail.com,3731576483,55900 Cassandra Hollow,Portsmouth,England,56647,UK,68.0,Male,Medium,Regular
+59819,Christina Snow,Wendy95@gmail.com,1467710063,01292 Austin Valleys,Portsmouth,England,28089,UK,29.0,Male,Medium,Regular
+57742,Lisa Tyler,John63@gmail.com,8205826469,4289 Reed Shoal Suite 250,Portsmouth,England,27018,UK,26.0,Male,Low,Regular
+80071,Patricia Reese,Stephanie24@gmail.com,7797823025,2246 Lindsey Plains,Portsmouth,England,17549,UK,41.0,Female,Low,Regular
+97683,Dr. Chad Lindsey,Kelsey82@gmail.com,6566997489,21033 Derrick Motorway,Portsmouth,England,57256,UK,31.0,Female,Low,Regular
+51980,Victoria Short,Jessica97@gmail.com,7387148594,461 Jefferson Avenue Suite 363,Portsmouth,England,26528,UK,34.0,Female,High,Regular
+11397,Tracy Baxter,Richard53@gmail.com,2810644301,88150 Brittany Stravenue,Portsmouth,England,49782,UK,29.0,Female,Low,Regular
+35966,Jennifer Wright,Michael69@gmail.com,4332303526,9729 Krista Highway,Portsmouth,England,41418,UK,69.0,Male,Low,Regular
+95925,Jesus Cole,Margaret59@gmail.com,5224669316,100 Jasmine Summit Apt. 567,Portsmouth,England,56239,UK,58.0,Male,Medium,Regular
+56726,Scott Sampson II,Zachary50@gmail.com,2852994101,898 Waters Cliff,Portsmouth,England,50405,UK,38.0,Male,Medium,Regular
+87729,Karen Short,Dominique52@gmail.com,6706684033,751 Larry Greens,Portsmouth,England,70189,UK,25.0,Female,Medium,Regular
+49952,Joseph Pearson,Brianna8@gmail.com,4766173039,9460 Kimberly Vista,Portsmouth,England,64919,UK,26.0,Female,Medium,Regular
+79052,Richard Hodge,Melissa21@gmail.com,3805088849,41769 Brandt Vista,Portsmouth,England,95213,UK,57.0,Female,High,Regular
+90837,Charles Rogers,Anthony26@gmail.com,2188816563,49972 Melissa Forges Suite 616,Portsmouth,England,37307,UK,70.0,Male,Low,Regular
+20500,Matthew Hicks,Kara43@gmail.com,1568421682,51720 Rachael Spurs Suite 283,Portsmouth,England,94447,UK,61.0,Female,Medium,Regular
+63629,Mary Lawson,Kelly99@gmail.com,2830391284,63515 Ross Corner Apt. 945,Portsmouth,England,41990,UK,37.0,Female,Low,Regular
+71053,Suzanne Thompson,Erica91@gmail.com,5138785707,35786 Bolton Tunnel Suite 882,Portsmouth,England,31948,UK,34.0,Female,Medium,Regular
+73823,Sarah Chase,Amber47@gmail.com,9335433668,324 Jason Station Apt. 372,Portsmouth,England,33334,UK,19.0,Female,Medium,Regular
+28956,Christopher Adams,Jason63@gmail.com,4427078263,905 Kathryn Unions Apt. 574,Portsmouth,England,39446,UK,43.0,Female,Low,Regular
+21444,Robert Perez,Robert89@gmail.com,8214017258,01641 Williams Mountains Apt. 425,Portsmouth,England,42579,UK,30.0,Male,Medium,Regular
+68648,Dennis Johnson,Tom90@gmail.com,3891012895,37733 John Loop Suite 389,Portsmouth,England,56650,UK,35.0,Male,Low,Regular
+50100,Penny Harris,Sarah100@gmail.com,9213637832,1800 Shannon Highway,Portsmouth,England,44803,UK,54.0,Female,Low,Regular
+65961,Erik Medina,Amanda64@gmail.com,8035994598,591 Adam Haven Suite 318,Portsmouth,England,2493,UK,39.0,Male,High,Regular
+70067,Ashley Adams,Danielle47@gmail.com,8168167767,471 Graham Islands Suite 333,Portsmouth,England,82213,UK,56.0,Male,High,Regular
+31581,Meredith James,Shannon57@gmail.com,3951850656,1800 Singh Centers Apt. 560,Portsmouth,England,75941,UK,25.0,Female,Low,Regular
+12604,Derek Patrick,Lori70@gmail.com,2817666105,0851 Frazier Isle,Portsmouth,England,56265,UK,47.0,Male,Low,Regular
+55594,Tara Hawkins,Melvin34@gmail.com,7609311698,2856 Steven Crossroad Apt. 393,Portsmouth,England,50743,UK,41.0,Male,Low,Regular
+98788,Zachary Smith,Monica62@gmail.com,4599588263,705 Hanna Loaf Apt. 029,Portsmouth,England,70549,UK,29.0,Male,Medium,Regular
+59411,Daniel Thompson,Lori61@gmail.com,7504846879,466 Sydney Turnpike Apt. 375,Portsmouth,England,2566,UK,61.0,Male,Low,Regular
+67690,Mark Lee,Michael54@gmail.com,9780172180,3688 Philip Landing Apt. 762,Portsmouth,England,41316,UK,35.0,Female,Medium,Regular
+96720,Robert Torres,Monica6@gmail.com,1113123915,886 Thompson Island Apt. 302,Portsmouth,England,50121,UK,59.0,Male,Medium,Regular
+28489,Julia Dodson,Kaitlin36@gmail.com,6363334046,4867 Bush Islands Suite 780,Portsmouth,England,52638,UK,43.0,Male,Medium,Regular
+22945,Jessica Burke,John100@gmail.com,6315925303,0888 Eric Ridge,Portsmouth,England,30472,UK,26.0,Female,Medium,Regular
+15757,Mr. Evan Sutton,Jasmine27@gmail.com,9419010843,576 Parrish Mountains Suite 562,Portsmouth,England,13755,UK,35.0,Male,Medium,Regular
+15983,Jamie Thompson,Michael25@gmail.com,4073525462,48449 Cynthia Points Apt. 781,Portsmouth,England,27737,UK,48.0,Male,Low,Regular
+74649,Courtney Perry,Tina32@gmail.com,7402421885,571 Samuel Wall Apt. 895,Portsmouth,England,24895,UK,18.0,Male,High,Regular
+50952,Teresa Maxwell,Daniel79@gmail.com,4353493533,63725 Jessica Prairie,Portsmouth,England,98138,UK,49.0,Female,Medium,Regular
+51279,Roy Obrien,John3@gmail.com,9379457412,253 Shea Manors,Portsmouth,England,25048,UK,60.0,Male,Low,Regular
+70655,Renee Banks,Cassandra10@gmail.com,1240946835,1828 Andrea Isle,Portsmouth,England,90371,UK,20.0,Male,Medium,Regular
+93615,Linda Spencer DVM,Casey5@gmail.com,3599888358,919 Williams River,Portsmouth,England,39093,UK,35.0,Male,Low,Regular
+86785,Todd Hernandez,Randy87@gmail.com,3446116291,428 Anthony Village Suite 371,Portsmouth,England,89665,UK,33.0,Female,Medium,Regular
+14549,Danielle Bennett,James20@gmail.com,2200037745,9980 Bryant Road,Portsmouth,England,84238,UK,62.0,Female,Medium,Regular
+94652,Elizabeth Fisher,Joseph95@gmail.com,3048742039,3593 Allen Meadow Suite 449,Portsmouth,England,19394,UK,19.0,Male,Medium,Regular
+67949,Martin Giles,Jonathan55@gmail.com,3221151529,405 Robert Estate Apt. 428,Portsmouth,England,18758,UK,54.0,Male,Medium,Regular
+38862,Nicholas Nelson,Anthony86@gmail.com,8495017152,2422 Jackson Rapid Apt. 062,Portsmouth,England,36037,UK,50.0,Female,Low,Regular
+13566,Maria Johnson,Marilyn60@gmail.com,8747748872,9600 Lisa Viaduct Apt. 811,Portsmouth,England,56223,UK,26.0,Female,Low,Regular
+72626,Daniel Morgan,Jacob10@gmail.com,9934928420,67273 Michelle Well,Portsmouth,England,21841,UK,58.0,Male,Medium,Regular
+45610,Sarah Lewis,Dale68@gmail.com,2252106373,7847 Susan Brook Apt. 282,Portsmouth,England,4485,UK,47.0,Female,Medium,Regular
+45455,Katherine Stuart,Megan75@gmail.com,9676430146,9610 Adams Unions Apt. 748,Portsmouth,England,62033,UK,35.0,Female,Low,Regular
+72079,Diana Thomas,Shane69@gmail.com,2142413521,0741 Morales Estates Suite 639,Portsmouth,England,69785,UK,25.0,Male,Low,Regular
+26736,Danielle May,Darrell77@gmail.com,3065136145,904 Lopez Haven Apt. 073,Portsmouth,England,4692,UK,67.0,Female,Medium,Regular
+47846,Mary Kim,Katherine73@gmail.com,3268643153,5028 Tammy Brook,Portsmouth,England,97711,UK,65.0,Male,Low,Regular
+77875,Monica Peterson,Frederick4@gmail.com,5191926327,9126 Turner Trail Suite 364,Portsmouth,England,5563,UK,65.0,Male,Medium,Regular
+95547,Sarah Li,Roger41@gmail.com,5326175928,2488 Barry Lake,Portsmouth,England,59954,UK,30.0,Male,High,Regular
+50126,Brianna Murray,Anthony39@gmail.com,1148388458,612 Marie Course Suite 432,Portsmouth,England,96985,UK,32.0,Female,Low,Regular
+67530,Mathew Fitzgerald,Erik18@gmail.com,Unknown,4169 Robert Lodge,Portsmouth,England,67486,UK,50.0,Male,Low,Regular
+55159,Ellen Simpson,Tiffany30@gmail.com,3133334228,0145 Aaron Junction Suite 500,Portsmouth,England,10430,UK,50.0,Male,Medium,Regular
+50555,Steven Riddle,Thomas97@gmail.com,2470177640,46650 Melissa Plains Apt. 683,Portsmouth,England,22156,UK,68.0,Male,Low,Regular
+21352,Denise Ellison,Brian49@gmail.com,2540594145,16068 Calderon Stravenue Apt. 565,Portsmouth,England,92972,UK,42.0,Male,Low,Regular
+28128,Mark Frazier,Alexis30@gmail.com,2189796179,15297 Ryan Ports Apt. 326,Portsmouth,England,12407,UK,65.0,Male,Low,Regular
+41336,Nathan Estrada,Jill65@gmail.com,3449233465,92057 Jennifer Canyon,Portsmouth,England,63564,UK,57.0,Male,Medium,Regular
+96814,Michelle Bright,Jose43@gmail.com,6435150270,11313 Steven Place Apt. 141,Portsmouth,England,72362,UK,27.0,Male,High,Regular
+95592,Carlos Stanley,Tonya20@gmail.com,8530902035,428 Kelley Stravenue Suite 893,Portsmouth,England,63355,UK,41.0,Male,Low,Regular
+90603,Kristen Vazquez,Samantha66@gmail.com,5970318153,402 Wood Neck,Portsmouth,England,31473,UK,56.0,Female,High,Regular
+88294,Rhonda Parsons,Gary99@gmail.com,6597516336,06146 John Loop,Portsmouth,England,90871,UK,64.0,Male,Medium,Regular
+47748,Alexis Smith,Karen91@gmail.com,9388217725,69821 Beard Locks,Portsmouth,England,25474,UK,39.0,Male,Medium,Regular
+84982,Sylvia Garcia,Gabrielle13@gmail.com,8358660998,1602 Michelle Junction,Portsmouth,England,1310,UK,68.0,Female,Low,Regular
+31054,Judy Green,Travis60@gmail.com,6738409426,184 Jonathan Pike Suite 510,Portsmouth,England,30731,UK,56.0,Female,Medium,Regular
+27353,Mrs. Maria Patrick,Sarah54@gmail.com,6912552655,57941 Osborne Ferry Apt. 927,Portsmouth,England,11524,UK,60.0,Female,Low,Regular
+52641,Andrea Martin,Todd60@gmail.com,3834526059,65518 Washington Meadows Suite 036,Portsmouth,England,92972,UK,48.0,Male,High,Regular
+71681,Kyle Moreno,Alex72@gmail.com,3373095522,38088 Molly Landing,Portsmouth,England,85049,UK,49.0,Male,Medium,Regular
+65334,Sherri Chambers,Emily43@gmail.com,1477984670,687 John Avenue,Portsmouth,England,77593,UK,32.0,Female,Medium,Regular
+83016,Shannon Lopez MD,Erin3@gmail.com,8322254249,649 Thompson Ports,Portsmouth,England,55340,UK,32.0,Female,Low,Regular
+40624,Trevor Walker,Tyler30@gmail.com,1360625946,107 Todd Neck,Portsmouth,England,82397,UK,18.0,Male,Medium,Regular
+66428,Jacob Arnold,Lawrence24@gmail.com,2100695530,9381 Keller Lock,Portsmouth,England,89333,UK,48.0,Female,Medium,Regular
+34145,Matthew Brown,Dawn85@gmail.com,1930731619,911 Preston Isle,Portsmouth,England,52069,UK,69.0,Male,Medium,Regular
+13629,Erica Humphrey,Adrienne73@gmail.com,8678953610,94813 Kevin Cove,Portsmouth,England,84015,UK,48.0,Male,Medium,Regular
+26940,Zachary Abbott,Jonathan81@gmail.com,1660611739,226 Martinez Turnpike,Portsmouth,England,5129,UK,68.0,Male,Medium,Regular
+73735,Kathleen Garcia,Randy29@gmail.com,6374505488,0699 Ramirez Brooks Suite 096,Portsmouth,England,82804,UK,58.0,Male,Medium,Regular
+96811,Sarah Harris,Melissa41@gmail.com,3781672719,801 David Parks Apt. 150,Portsmouth,England,71615,UK,44.0,Female,Medium,Regular
+50056,Sheryl Smith,Dwayne48@gmail.com,6139562938,3291 Theresa Ridges,Portsmouth,England,4267,UK,60.0,Male,Low,Regular
+41835,Christine Green PhD,Stephen32@gmail.com,8694292782,746 Bruce Glens,Portsmouth,England,88500,UK,33.0,Female,Low,Regular
+89815,Richard Diaz,Steve5@gmail.com,3221780424,019 Ross Burg Suite 949,Portsmouth,England,80499,UK,26.0,Male,Low,Regular
+84806,George Salazar,Kelly57@gmail.com,7827977052,465 Stephenson Shoals,Portsmouth,England,54259,UK,60.0,Female,Medium,Regular
+14196,Michael Perkins,Tabitha57@gmail.com,8979005491,432 Raven Terrace,Portsmouth,England,69649,UK,37.0,Male,High,Regular
+11602,Elizabeth Jones,Amanda29@gmail.com,9120932188,4011 Evans Plaza Suite 716,Portsmouth,England,9715,UK,37.0,Male,Low,Regular
+40667,Elijah Yoder,Misty14@gmail.com,6654567820,6989 Shannon Mountain,Portsmouth,England,88520,UK,66.0,Male,Medium,Regular
+12223,Michael Howe,Michael14@gmail.com,7829418212,027 Matthew Walks,Portsmouth,England,60278,UK,46.0,Male,High,Regular
+92174,Whitney Adams,David85@gmail.com,7663483087,332 James Crescent,Portsmouth,England,58845,UK,29.0,Male,Medium,Regular
+70193,Alexis Carlson,Tamara14@gmail.com,7475610720,8990 Suarez Corner,Portsmouth,England,8337,UK,38.0,Female,Medium,Regular
+37748,Teresa West,John68@gmail.com,1466610999,3147 Ramirez Turnpike Suite 535,Portsmouth,England,55073,UK,39.0,Male,Low,Regular
+46908,Kimberly Jordan,John73@gmail.com,6105110623,39861 Torres Court,Portsmouth,England,19707,UK,54.0,Male,Medium,Regular
+72950,Gregory Bates,Gerald65@gmail.com,7785499928,3720 Matthew Ville Suite 453,Portsmouth,England,42573,UK,51.0,Female,Low,Regular
+78960,Kyle Odom,Daniel67@gmail.com,1133304058,66041 Adams Extensions Suite 970,Portsmouth,England,6258,UK,57.0,Female,Medium,Regular
+97201,Daniel Myers,Ryan95@gmail.com,7298270465,468 Norton Squares,Portsmouth,England,33978,UK,58.0,Male,Medium,Regular
+37351,Rachel Robinson,Traci4@gmail.com,7880689078,1540 Erin Trail Apt. 309,Portsmouth,England,37106,UK,46.0,Male,Medium,Regular
+73668,John Carpenter,Jose48@gmail.com,4692455252,984 Wagner Inlet Suite 023,Portsmouth,England,25579,UK,18.0,Male,Low,Regular
+93072,Brandy Cruz,David58@gmail.com,8167796506,6928 Scott Motorway,Portsmouth,England,20819,UK,46.0,Male,Low,Regular
+44073,David James,Jennifer95@gmail.com,2337436974,92779 Brent Ridge,Portsmouth,England,87385,UK,70.0,Female,Medium,Regular
+33277,Michael Curtis,Christine91@gmail.com,9498766759,09308 Catherine Mountains Apt. 936,Portsmouth,England,10334,UK,68.0,Male,Medium,Regular
+89211,Derrick Baker,Andrea94@gmail.com,8760164464,2616 Pratt Estates,Portsmouth,England,56517,UK,27.0,Female,Medium,Regular
+45413,Lauren Johnson,Lisa82@gmail.com,1816016808,0288 Jennifer Spurs Suite 207,Portsmouth,England,24786,UK,63.0,Male,Medium,Regular
+75644,Nicole Fisher,Breanna80@gmail.com,5778422432,5097 Mcguire Crescent Suite 804,Portsmouth,England,51550,UK,55.0,Male,Medium,Regular
+28689,Miranda York,Larry76@gmail.com,7007109808,986 Melissa Mountain,Portsmouth,England,49241,UK,37.0,Female,High,Regular
+17098,Jeff Little,Joshua45@gmail.com,4759763256,2512 Murray Ports Suite 342,Portsmouth,England,13503,UK,26.0,Female,High,Regular
+59565,Sheila Grant,Caleb46@gmail.com,5369056472,01812 Sheryl Streets Suite 856,Portsmouth,England,82378,UK,39.0,Female,Medium,Regular
+14899,Adam Decker,Matthew8@gmail.com,4132073431,695 Woodward Ville,Portsmouth,England,21339,UK,18.0,Male,Medium,Regular
+95391,Brandy Dyer,Robert47@gmail.com,3957324586,8371 Amy Bridge,Portsmouth,England,55590,UK,64.0,Male,Low,Regular
+66817,Richard Ortiz,Erica81@gmail.com,5502920164,959 Andrews Shoals,Portsmouth,England,57779,UK,41.0,Female,High,Regular
+93866,Zachary Diaz,Jean66@gmail.com,7690958509,992 Dunn Tunnel,Portsmouth,England,64222,UK,32.0,Female,Medium,Regular
+11393,Jerry Chaney,Ronald76@gmail.com,1931018021,3188 Jessica Prairie Suite 544,Portsmouth,England,52378,UK,46.0,Male,High,Regular
+88381,Chelsea Leonard,Michele83@gmail.com,5921288191,4189 Martinez Neck,Portsmouth,England,68129,UK,57.0,Female,Low,Regular
+95670,Heather Bailey,Christopher39@gmail.com,1517977881,15302 Perez Parkways Apt. 638,Portsmouth,England,2952,UK,39.0,Male,Low,Regular
+92028,Tracy Farmer,Willie26@gmail.com,3960951206,120 Moody Lane,Portsmouth,England,32951,UK,48.0,Male,Medium,Regular
+26172,Samuel Mclaughlin,Benjamin14@gmail.com,5993222534,649 Reid Radial Suite 875,Portsmouth,England,84303,UK,23.0,Female,Low,Regular
+89528,Thomas Wilson,Michael58@gmail.com,2178869807,9600 Brandon Centers,Portsmouth,England,87209,UK,36.0,Male,High,Regular
+39728,Derek Perez,Brandon75@gmail.com,2175018981,54835 Jon Viaduct Suite 484,Portsmouth,England,527,UK,50.0,Male,High,Regular
+10237,Michael Walker,Richard51@gmail.com,6545018464,513 Porter Fields Suite 094,Portsmouth,England,46942,UK,64.0,Male,Medium,Regular
+25605,Jim Hansen,Lindsey42@gmail.com,2171598460,0371 Lopez Ridges,Portsmouth,England,73280,UK,60.0,Male,Low,Regular
+88816,Michael Ramirez,Margaret32@gmail.com,8132474319,149 Osborne Plaza Apt. 241,Portsmouth,England,76631,UK,43.0,Female,Low,Regular
+75143,Diane Stewart,Richard77@gmail.com,9067158971,99611 Bruce Way,Portsmouth,England,56037,UK,59.0,Male,High,Regular
+12884,Joseph Barnes,Charles57@gmail.com,8142641936,9482 Valenzuela Manor,Portsmouth,England,10435,UK,40.0,Male,High,Regular
+47483,Tonya Moss,Maria26@gmail.com,1130620699,518 Pamela Way Apt. 767,Portsmouth,England,66627,UK,68.0,Female,Medium,Regular
+33012,Sarah Reyes,Christina94@gmail.com,3874565921,9463 Paula Loop Apt. 595,Portsmouth,England,97293,UK,21.0,Male,Low,Regular
+74001,Craig Powell,Michael35@gmail.com,1511161741,825 Oscar Road,Portsmouth,England,64925,UK,70.0,Male,Medium,Regular
+66660,Margaret Kaufman,Terry63@gmail.com,6869060509,667 Fletcher Fords Suite 934,Portsmouth,England,27250,UK,47.0,Female,Medium,Regular
+48512,Crystal Edwards,Kerri97@gmail.com,3246657725,636 Matthew Wall Apt. 909,Portsmouth,England,44582,UK,62.0,Female,Low,Regular
+88539,Anne Andrews,Kevin74@gmail.com,2455126936,6161 Suzanne Stravenue Suite 155,Portsmouth,England,46157,UK,35.0,Male,Low,Regular
+22236,Vincent Lewis,John3@gmail.com,7646317127,718 Carlos Dam Suite 242,Portsmouth,England,82197,UK,40.0,Male,Medium,Regular
+52755,Alexandra Daniel,Crystal39@gmail.com,3118542635,609 Evans Landing Suite 544,Portsmouth,England,58419,UK,20.0,Male,Low,Regular
+88053,Laura Castillo,David67@gmail.com,8470185426,89423 Kenneth Trafficway,Portsmouth,England,83465,UK,55.0,Male,High,Regular
+73450,Christopher Burke,Sherry94@gmail.com,7518407661,201 Day Crossroad Apt. 649,Portsmouth,England,63490,UK,36.0,Female,Medium,Regular
+74006,Gabriel Lamb,Curtis52@gmail.com,7626451624,69315 Penny Via,Portsmouth,England,83410,UK,36.0,Male,Medium,Regular
+82037,Jennifer Stone,Cameron78@gmail.com,4807595423,38891 Carter Village Suite 393,Portsmouth,England,81973,UK,51.0,Male,Low,Regular
+64755,Natasha Carroll,Luke43@gmail.com,6111435276,948 Parrish Forest,Portsmouth,England,5301,UK,47.0,Male,Low,Regular
+97514,Amanda Moore DDS,Rebecca19@gmail.com,4947701114,63128 Dan Valley,Portsmouth,England,97514,UK,67.0,Male,Medium,Regular
+77277,Nathan Nelson,Ann36@gmail.com,9690257718,620 Michael Ports Apt. 971,Portsmouth,England,81658,UK,26.0,Male,Low,Regular
+79487,Elizabeth Rowe,Erica20@gmail.com,5091505745,9365 Rebecca Parks Suite 823,Portsmouth,England,3385,UK,39.0,Male,Low,Regular
+73524,Jonathan Miller,Rachel76@gmail.com,2239329151,2195 Campbell Plaza Apt. 471,Portsmouth,England,43616,UK,51.0,Male,Low,Regular
+77202,Jamie Morales,Richard68@gmail.com,7649738751,55530 Richardson Glens Apt. 136,Portsmouth,England,83701,UK,56.0,Male,Medium,Regular
+61206,Alexandria Gonzalez,Brandon98@gmail.com,9854139702,69980 Moran Shoal Apt. 548,Portsmouth,England,64846,UK,34.0,Male,Medium,Regular
+79248,Gregory Reed,Teresa13@gmail.com,1720309455,09626 Sherry Mews,Portsmouth,England,51413,UK,67.0,Male,Medium,Regular
+61351,Megan Rice,Danielle48@gmail.com,9270051321,7780 Duncan Grove,Portsmouth,England,48894,UK,61.0,Male,Medium,Regular
+76742,Matthew Holland,Phillip42@gmail.com,8413245765,97205 Oconnor Overpass,Portsmouth,England,53317,UK,57.0,Female,Medium,Regular
+11288,Olivia Shea,Kristin80@gmail.com,7932281309,2036 Guerra Fork Suite 737,Portsmouth,England,35923,UK,65.0,Female,Medium,Regular
+34843,John Payne,Selena96@gmail.com,5789638037,0871 Jessica Street Suite 008,Portsmouth,England,86213,UK,32.0,Male,Low,Regular
+38118,Thomas Stein,Charles6@gmail.com,2290444484,0676 Michael Ramp Suite 239,Portsmouth,England,66320,UK,51.0,Male,Medium,Regular
+74050,Ryan Brown,David23@gmail.com,4546503386,08713 Miller Via,Portsmouth,England,54287,UK,52.0,Male,Low,Regular
+68547,Shannon Cooper,Connor76@gmail.com,8131788798,7217 Jose Road,Portsmouth,England,91706,UK,36.0,Male,Low,Regular
+46019,Thomas Mcbride,Caitlin79@gmail.com,6726068772,57276 Sabrina Shore Suite 181,Portsmouth,England,66628,UK,23.0,Male,Low,Regular
+24134,Mitchell Mueller,Grant90@gmail.com,4047384437,120 Heather Glen,Portsmouth,England,35837,UK,29.0,Male,Low,Regular
+72352,Connie Hill,Cynthia77@gmail.com,9881852769,1364 Casey Brook Suite 260,Portsmouth,England,51183,UK,51.0,Female,Medium,Regular
+32937,Adrienne Wright,Candace61@gmail.com,5541054086,0130 Simmons Ports,Portsmouth,England,38193,UK,37.0,Male,Medium,Regular
+67942,Pamela Smith,Lisa87@gmail.com,5026848745,704 Anna Mountains,Portsmouth,England,75595,UK,36.0,Male,Low,Regular
+16597,Leslie Decker,Larry66@gmail.com,8576916937,85219 Jennifer Brook Apt. 210,Portsmouth,England,1335,UK,70.0,Male,Medium,Regular
+58115,Julie Moore,Nicholas97@gmail.com,8963506676,3379 Albert Path Apt. 457,Portsmouth,England,13123,UK,68.0,Male,Medium,Regular
+58363,William Mcclain,Latoya48@gmail.com,3526865912,4535 Nicolas Field,Portsmouth,England,68094,UK,35.0,Male,Medium,Regular
+71025,Tim Graham,Larry12@gmail.com,8850055537,6755 Dickson Ranch,Portsmouth,England,4345,UK,44.0,Male,Medium,Regular
+39803,Joy Allen,Christopher60@gmail.com,6347154909,903 Nguyen Ports,Portsmouth,England,46989,UK,55.0,Female,Medium,Regular
+27495,Devin Rodriguez,Robert17@gmail.com,9617585299,5674 Coleman Meadow,Portsmouth,England,50821,UK,59.0,Male,Medium,Regular
+22191,Jose Diaz,Julian98@gmail.com,7905836276,6902 Nancy Crossing Suite 179,Portsmouth,England,89921,UK,64.0,Female,Low,Regular
+43816,Lacey Gray,James69@gmail.com,8220783421,8053 Simpson Meadows,Portsmouth,England,81199,UK,21.0,Female,Low,Regular
+78184,Joseph Willis,Samantha75@gmail.com,4092027102,792 Jermaine Cape,Portsmouth,England,37290,UK,28.0,Female,Medium,Regular
+67970,Jonathan Edwards,Charles24@gmail.com,9501020895,078 Fisher Mission,Portsmouth,England,51758,UK,65.0,Male,High,Regular
+28554,Carla Stein,Lynn54@gmail.com,3950729417,05640 Monica Alley,Portsmouth,England,96885,UK,43.0,Female,Medium,Regular
+84475,Carl Jenkins,Janice60@gmail.com,2408165951,4801 Sherri Stravenue Suite 897,Portsmouth,England,58261,UK,59.0,Female,Medium,Regular
+80529,Brittany Leon,Timothy19@gmail.com,2374822702,04409 Johnson Corners,Portsmouth,England,42405,UK,38.0,Female,Medium,Regular
+89086,Ronald Kim,Bruce5@gmail.com,6749868705,92421 Stephen Fords Apt. 034,Portsmouth,England,19925,UK,32.0,Female,Medium,Regular
+21224,Anne Larson,Megan75@gmail.com,1417808242,52641 Lauren Square,Portsmouth,England,70257,UK,49.0,Female,Medium,Regular
+13256,Robert Lee,Angela80@gmail.com,2435297056,717 Cain Fall Apt. 316,Portsmouth,England,35346,UK,18.0,Male,Medium,Regular
+16846,Fernando Lawson,David43@gmail.com,9639372692,809 Joanna Dale,Portsmouth,England,25257,UK,23.0,Male,Medium,Regular
+11135,Brenda Webster,Stephen32@gmail.com,8745554657,5637 Kayla Freeway Suite 225,Portsmouth,England,35821,UK,37.0,Male,Low,Regular
+57550,Miss Adrienne Walker MD,Angela57@gmail.com,7170567565,94499 Jessica Extension Apt. 769,Portsmouth,England,14443,UK,32.0,Male,Low,Regular
+19537,David Parker,Betty83@gmail.com,5793653555,751 Stone Burgs Apt. 888,Portsmouth,England,54882,UK,35.0,Female,Low,Regular
+93979,Sarah Hess,Tammy57@gmail.com,5973779364,294 Palmer Inlet Apt. 966,Portsmouth,England,51469,UK,,Female,Low,Regular
+40113,Jack Davies,Anthony34@gmail.com,1490517260,778 Jacob Brook,Portsmouth,England,96807,UK,30.0,Female,Low,Regular
+49175,Cynthia Fisher,Gregory76@gmail.com,9764088137,9903 John Street Apt. 166,Portsmouth,England,51754,UK,45.0,Male,Low,Regular
+57144,Melissa Jones,Calvin99@gmail.com,6556192429,494 Scott Streets Apt. 578,Portsmouth,England,6090,UK,70.0,Male,High,Regular
+35222,Madeline Taylor,Michelle21@gmail.com,7158674453,88911 Mark Shores,Portsmouth,England,56629,UK,61.0,Female,Medium,Regular
+80366,Steven Sullivan,Matthew19@gmail.com,4642530908,79437 Harper Knolls Suite 365,Portsmouth,England,87260,UK,44.0,Male,Medium,Regular
+49922,Veronica Gregory,Todd76@gmail.com,9447882255,8056 Reid Overpass Apt. 406,Portsmouth,England,79477,UK,26.0,Male,Medium,Regular
+29333,Justin Jackson,Barbara12@gmail.com,4423586132,042 Katie Underpass Suite 931,Portsmouth,England,56061,UK,70.0,Male,Low,Regular
+73664,Ann Douglas,Trevor77@gmail.com,7627538396,86436 Tiffany Row,Portsmouth,England,3518,UK,46.0,Male,Medium,Regular
+42831,Ian West,Russell62@gmail.com,9037858587,07762 Linda Garden Suite 524,Portsmouth,England,18067,UK,52.0,Male,Medium,Regular
+11577,Mrs. Kimberly Austin MD,Beverly23@gmail.com,3125448485,235 Anderson Green Suite 345,Portsmouth,England,71403,UK,63.0,Female,High,Regular
+39581,Ryan Richmond DVM,Alan38@gmail.com,2588829938,83347 Adam Turnpike,Portsmouth,England,71351,UK,55.0,Male,Medium,Regular
+48777,Donna Hodges,Marcus19@gmail.com,1628883121,85868 Cook Stravenue Apt. 866,Portsmouth,England,61550,UK,23.0,Female,Medium,Regular
+13265,Victoria Mclaughlin,Heather3@gmail.com,3575437945,180 Michael Neck Suite 986,Portsmouth,England,84110,UK,40.0,Female,Medium,Regular
+30726,Christopher Barton,Tracy63@gmail.com,2446704691,66871 James Vista Suite 840,Portsmouth,England,20893,UK,64.0,Male,Medium,Regular
+78509,Joshua Hatfield,Wendy13@gmail.com,9421494452,37915 David Wells,Portsmouth,England,69665,UK,45.0,Female,High,Regular
+18932,Karina Wade,Frances39@gmail.com,7321385285,9365 Alex Drive,Portsmouth,England,83604,UK,40.0,Female,High,Regular
+39003,Shelby Perry,Keith98@gmail.com,1176517362,4740 Mercer Hill Apt. 788,Portsmouth,England,36658,UK,23.0,Female,High,Regular
+15698,Debbie Sanchez,Daniel89@gmail.com,7325858389,7954 Megan Burg,Portsmouth,England,15577,UK,50.0,Male,Medium,Regular
+78206,Ana Perez,Evan40@gmail.com,6840284908,477 Jacob Mountain Suite 603,Portsmouth,England,70723,UK,24.0,Male,High,Regular
+56459,Tyler Lopez,Marcus6@gmail.com,3596390100,7709 Lara Ways Apt. 340,Portsmouth,England,37993,UK,18.0,Male,Medium,Regular
+67367,Tracy Carson,Leslie21@gmail.com,1828136935,98616 Brown Shores Suite 859,Portsmouth,England,70788,UK,26.0,Female,Medium,Regular
+33661,Susan Lester,Tony93@gmail.com,7816833775,1376 Lee Haven,Portsmouth,England,40557,UK,64.0,Female,Medium,Regular
+28588,David Colon,Stephanie56@gmail.com,8319247172,28775 Dean Spring Suite 941,Portsmouth,England,1468,UK,47.0,Male,Low,Regular
+62301,Travis Jones,Meghan23@gmail.com,9315106694,69264 Combs Ports,Portsmouth,England,21819,UK,50.0,Female,Low,Regular
+79517,Brittany Myers,Stephanie6@gmail.com,5340114699,1817 Theodore Cliffs,Portsmouth,England,99648,UK,62.0,Female,High,Regular
+76133,Cathy Cooper,Andrew82@gmail.com,8479026556,01134 Wright Circles Apt. 031,Portsmouth,England,63605,UK,21.0,Female,Medium,Regular
+65159,Susan Vasquez,Emily42@gmail.com,7470976577,30124 Gordon Knolls Suite 242,Portsmouth,England,67021,UK,35.0,Female,Medium,Regular
+17558,William Lee,Christine98@gmail.com,4257133898,26672 Rodriguez Roads,Portsmouth,England,47091,UK,68.0,Male,Low,Regular
+95531,Holly Gordon,Wendy96@gmail.com,2954074868,8893 Williams Loaf,Portsmouth,England,85707,UK,43.0,Female,Low,Regular
+36083,Fred Whitaker,Scott44@gmail.com,3207950518,658 Louis Courts Apt. 000,Portsmouth,England,72704,UK,69.0,Female,Medium,Regular
+74812,David Johnson,Richard34@gmail.com,2045304682,2212 Moss Ports Apt. 070,Portsmouth,England,54251,UK,61.0,Male,Low,Regular
+84556,Rebecca Alvarado,Denise49@gmail.com,3274634766,30631 James Forge,Portsmouth,England,33080,UK,40.0,Male,Medium,Regular
+91124,Allen Calderon,Chelsea47@gmail.com,5060251518,877 Megan Hollow,Portsmouth,England,36037,UK,33.0,Male,High,Regular
+13082,Daniel Patel,Melissa66@gmail.com,4007365608,44760 Aaron Park Suite 820,Portsmouth,England,43622,UK,37.0,Male,High,Regular
+29178,Robert Barnes,Jennifer98@gmail.com,5434425050,04327 Jennifer Freeway Apt. 498,Portsmouth,England,16096,UK,52.0,Male,Medium,Regular
+68375,Savannah Casey,Michael19@gmail.com,7639570540,7248 Jennifer Fall,Portsmouth,England,25837,UK,36.0,Male,Medium,Regular
+42739,Maria Miller,Amanda19@gmail.com,9001048302,84701 Emily Shores Suite 007,Portsmouth,England,37727,UK,21.0,Male,Low,Regular
+89187,Keith Wise,Amanda64@gmail.com,2729132651,084 Hart Ports Apt. 483,Portsmouth,England,7376,UK,28.0,Male,Medium,Regular
+36687,Jonathan Humphrey,Gregory33@gmail.com,4414875788,585 Thompson Drives Suite 308,Portsmouth,England,85422,UK,58.0,Male,Low,Regular
+24363,Jennifer Crawford,Isabel14@gmail.com,8529822826,27984 Potter Wells,Portsmouth,England,12602,UK,21.0,Male,Low,Regular
+31512,Natalie Melton,Bradley55@gmail.com,7043575564,471 Winters Flats,Portsmouth,England,79489,UK,67.0,Male,High,Regular
+90471,Ann Walker,Stacy75@gmail.com,6966793456,965 Russell Squares,Portsmouth,England,80588,UK,31.0,Female,Medium,Regular
+96361,Taylor Wright,Patrick39@gmail.com,1616388893,1593 Hughes Pine,Portsmouth,England,3918,UK,44.0,Male,High,Regular
+78399,Linda Barnett,Amy11@gmail.com,2540762476,18882 Rebecca Place,Portsmouth,England,47233,UK,53.0,Female,Low,Regular
+15015,Evan Henderson,Shelia39@gmail.com,6519757170,001 Kimberly Vista,Portsmouth,England,15988,UK,60.0,Male,Low,Regular
+23951,Lisa Flores,William7@gmail.com,6758337430,2646 Brooks Mountain,Portsmouth,England,2699,UK,28.0,Male,Medium,Regular
+73394,Vickie Myers,John66@gmail.com,9509319347,25148 Brown Passage Suite 732,Portsmouth,England,96657,UK,28.0,Male,Medium,Regular
+98991,Connie Murphy,Tony57@gmail.com,7624446513,553 Barrett Shoals,Portsmouth,England,24421,UK,26.0,Male,Low,Regular
+74342,Alyssa Mitchell,Keith84@gmail.com,6499644897,100 Lawrence Forest Apt. 935,Portsmouth,England,68501,UK,20.0,Male,Medium,Regular
+90915,Nancy Mcintyre,David95@gmail.com,9028209398,44400 Howell Groves,Portsmouth,England,33145,UK,44.0,Male,Medium,Regular
+97487,Joshua Brown,Nathan56@gmail.com,2079722173,23549 James Ridges,Portsmouth,England,44057,UK,36.0,Male,Low,Regular
+47017,Mark Carter,Loretta15@gmail.com,6052767277,8851 Johnson Lights,Portsmouth,England,93289,UK,38.0,Male,Medium,Regular
+85089,Charles Willis,Elizabeth61@gmail.com,4727214730,650 Kristin Pike,Portsmouth,England,60126,UK,54.0,Male,Medium,Regular
+93886,Shannon Sparks,Joseph80@gmail.com,6108099045,32318 Andrea Courts,Portsmouth,England,84023,UK,43.0,Female,Low,Regular
+82024,David Rowe,Andrea26@gmail.com,6643820445,620 Williams Roads,Portsmouth,England,33107,UK,48.0,Female,Low,Regular
+92619,Alex Medina,John85@gmail.com,6735970627,608 Burton Spurs Apt. 380,Portsmouth,England,39599,UK,67.0,Male,High,Regular
+61101,Gregory Wagner,James86@gmail.com,1532608093,48021 Collins Mill Suite 436,Portsmouth,England,73464,UK,60.0,Male,Medium,Regular
+21798,Cynthia Mckenzie,Angel79@gmail.com,8554123482,63210 Karen Unions Suite 845,Portsmouth,England,43248,UK,53.0,Female,Medium,Regular
+16615,Janet Gordon,James37@gmail.com,3453584559,4897 April Lodge Suite 562,Portsmouth,England,8167,UK,41.0,Male,High,Regular
+16049,Elizabeth Clark,Anna42@gmail.com,2699007429,34722 Curtis Squares,Portsmouth,England,71852,UK,20.0,Male,Medium,Regular
+52839,Jerry Burns,Roy39@gmail.com,5811855277,0204 Higgins Stravenue Suite 246,Portsmouth,England,18452,UK,46.0,Male,Low,Regular
+55940,Theresa Harvey,Mitchell35@gmail.com,1596922964,70892 Andrea View Apt. 497,Portsmouth,England,92438,UK,32.0,Male,Low,Regular
+35446,Pamela Campbell,Laura29@gmail.com,6821592084,52144 Megan Causeway Apt. 943,Portsmouth,England,80864,UK,48.0,Male,Medium,Regular
+69500,Brian Ortiz,Zachary50@gmail.com,2657992773,28815 Gwendolyn Unions,Portsmouth,England,81579,UK,61.0,Male,Low,Regular
+28591,Theresa Diaz,Levi6@gmail.com,3566823896,551 Vaughn Alley,Portsmouth,England,76664,UK,24.0,Male,Medium,Regular
+34792,Linda Smith,Kenneth94@gmail.com,4098753656,81671 Julia Camp Apt. 054,Portsmouth,England,9070,UK,29.0,Male,High,Regular
+69214,Carly Vega,Todd29@gmail.com,5063322928,313 Peterson Spurs Apt. 861,Portsmouth,England,28005,UK,31.0,Male,Medium,Regular
+75243,Susan Juarez,Kara95@gmail.com,2723925334,079 Mcbride Wells,Portsmouth,England,19194,UK,44.0,Female,Low,Regular
+40619,Robin Campbell,Tonya74@gmail.com,3550893930,5175 Andrew Pines,Portsmouth,England,98815,UK,19.0,Male,Medium,Regular
+50357,Kathryn Martin,Jonathan37@gmail.com,7843252850,3028 Hart Rapid Apt. 351,Portsmouth,England,57721,UK,22.0,Male,Low,Regular
+36084,Heather Johnson,Jasmin96@gmail.com,6352872686,550 Ryan Forks Apt. 273,Portsmouth,England,13419,UK,39.0,Male,Low,Regular
+57471,Rebecca Jones,Amber63@gmail.com,4253302009,33062 Brian Mews Suite 686,Portsmouth,England,1985,UK,65.0,Female,High,Regular
+85291,Scott Porter,William51@gmail.com,3322434863,82129 Tony Flat Suite 562,Portsmouth,England,51935,UK,23.0,Female,Low,Regular
+16683,Sara Martinez,Lisa82@gmail.com,7140029266,5498 Emily Harbors,Portsmouth,England,79456,UK,43.0,Male,Medium,Regular
+30293,Kimberly Franklin,Nicole96@gmail.com,7750688117,880 Cynthia Cliffs,Portsmouth,England,3089,UK,67.0,Male,Medium,Regular
+99944,Teresa Brown,Kathleen47@gmail.com,2797877746,3861 Crystal Roads,Portsmouth,England,84722,UK,20.0,Female,Low,Regular
+60481,Renee Manning,Kevin60@gmail.com,3838883939,4956 Rebecca Lake,Portsmouth,England,52334,UK,43.0,Female,Low,Regular
+91698,Terry Gaines,Amber47@gmail.com,5151413711,42969 Stevens Island,Portsmouth,England,73398,UK,58.0,Female,Low,Regular
+44721,Rebekah Marsh,Ashley29@gmail.com,9342388581,6510 Christopher Trafficway Apt. 594,Portsmouth,England,7853,UK,36.0,Male,Medium,Regular
+96867,Gerald Andrews,Sydney58@gmail.com,4733318648,847 Smith Villages Apt. 777,Portsmouth,England,41429,UK,21.0,Female,Medium,Regular
+82671,Joshua Grimes,Jessica48@gmail.com,1126040209,351 Taylor Forge,Portsmouth,England,38647,UK,50.0,Male,Medium,Regular
+35547,William Thomas,Brad28@gmail.com,6290627159,6007 Jones Crossroad Apt. 487,Portsmouth,England,8454,UK,59.0,Male,Low,Regular
+50869,Christina Taylor,Sean72@gmail.com,2456044824,12532 Raymond Mews,Portsmouth,England,50529,UK,62.0,Male,Low,Regular
+66893,Deanna Garrett,Yvonne25@gmail.com,2969209549,3295 Andrew Courts,Portsmouth,England,88730,UK,61.0,Male,Medium,Regular
+42358,Melissa Williams,Katrina76@gmail.com,4493413740,819 Antonio Via Suite 388,Portsmouth,England,3775,UK,67.0,Female,High,Regular
+73353,Ryan Cook,Justin71@gmail.com,2751175665,59791 Kaitlin Route,Portsmouth,England,60324,UK,63.0,Male,Medium,Regular
+13610,Roberta Ford,Deborah81@gmail.com,7398691297,00001 Jones Views,Portsmouth,England,76359,UK,61.0,Male,Low,Regular
+29811,Wyatt Spencer,Rebecca58@gmail.com,1383656077,850 Lee Lights Suite 501,Portsmouth,England,52036,UK,64.0,Female,Low,Regular
+79548,Patricia Nguyen,Ana58@gmail.com,5287072698,89016 Clark Ramp Apt. 394,Portsmouth,England,98542,UK,25.0,Male,Low,Regular
+15597,Kelly Smith,Ellen26@gmail.com,8774216930,0120 Sanchez Wall,Portsmouth,England,36066,UK,52.0,Female,Medium,Regular
+27115,John Woods,Daniel43@gmail.com,2943631182,677 Daniel Rapids Suite 166,Portsmouth,England,81478,UK,62.0,Male,Medium,Regular
+73862,Deanna Johnson,Dana69@gmail.com,1803411094,836 Robyn Forks,Portsmouth,England,47388,UK,47.0,Male,Low,Regular
+26241,Jacqueline Thompson,Trevor57@gmail.com,6333941668,46503 Gutierrez Land,Portsmouth,England,75865,UK,49.0,Male,Low,Regular
+62489,Sarah Jenkins,Seth91@gmail.com,3942250195,42547 Crystal Field Suite 309,Portsmouth,England,3348,UK,69.0,Male,Medium,Regular
+38393,Mario Sparks,Jeremy49@gmail.com,1307082373,6099 Karen Common Apt. 735,Portsmouth,England,34302,UK,49.0,Male,Medium,Regular
+14771,Jennifer Rogers,Joseph72@gmail.com,5390815909,30889 Branch Forge Suite 620,Portsmouth,England,61146,UK,21.0,Male,Medium,Regular
+89926,Javier Wright,Brian21@gmail.com,8210033594,4963 Mark River Apt. 160,Portsmouth,England,16320,UK,70.0,Female,Low,Regular
+93000,Justin Martin,Roger16@gmail.com,9130403971,00197 Logan Ranch,Portsmouth,England,48783,UK,22.0,Female,Low,Regular
+99453,Catherine Poole,Ryan78@gmail.com,7642577456,9105 Thomas Springs,Portsmouth,England,95432,UK,36.0,Female,Low,Regular
+60009,Diane Martinez,Jacqueline26@gmail.com,2246926095,79664 Chang Brooks,Portsmouth,England,78174,UK,31.0,Male,Low,Regular
+30224,Mary Garcia,Alexander14@gmail.com,1574979080,89607 Leah Bridge,Portsmouth,England,91558,UK,43.0,Female,Low,Regular
+74095,Michelle Johnston,Alexa61@gmail.com,5622213903,4263 Samuel Fields,Portsmouth,England,35694,UK,50.0,Male,Medium,Regular
+24469,Christopher Whitney,Joel88@gmail.com,7946361397,4468 Terry Trafficway Apt. 823,Portsmouth,England,26901,UK,34.0,Male,Medium,Regular
+76027,Karen Hicks,Kimberly22@gmail.com,8482007324,520 Briana Lane Apt. 127,Portsmouth,England,54339,UK,54.0,Male,Low,Regular
+68480,Jonathan Smith,Brandon80@gmail.com,5951911330,515 Seth Wells Apt. 262,Portsmouth,England,55692,UK,24.0,Female,High,Regular
+31763,Robin Ramirez,Ruth41@gmail.com,3186758457,1791 Cortez Ridge,Portsmouth,England,57333,UK,54.0,Male,Medium,Regular
+18113,Erica Juarez,Molly20@gmail.com,4353427815,6471 Jeffrey Land,Portsmouth,England,63049,UK,22.0,Male,Medium,Regular
+57044,Lindsey Bowman,John39@gmail.com,4742422360,56060 Hanna Pass Suite 432,Portsmouth,England,78091,UK,44.0,Male,Low,Regular
+25041,Allison Wright,Rebecca78@gmail.com,5092794861,2258 Robertson Hills Suite 461,Portsmouth,England,4932,UK,27.0,Female,High,Regular
+30563,Pedro Estrada,Elizabeth30@gmail.com,1689710966,50589 Hanson Tunnel,Portsmouth,England,75554,UK,25.0,Female,Medium,Regular
+45693,Melinda Moore,Amber3@gmail.com,2029915852,28311 Tara Divide Apt. 429,Portsmouth,England,24571,UK,67.0,Male,Low,Regular
+43571,Ryan Graham,Jose28@gmail.com,6531795462,4140 Veronica Prairie Suite 454,Portsmouth,England,59167,UK,18.0,Male,Low,Regular
+66017,Christopher Parker,Chelsea47@gmail.com,3234082534,993 Harmon Stravenue Suite 132,Portsmouth,England,61349,UK,22.0,Male,Low,Regular
+45899,Laura Butler,Francisco97@gmail.com,2968913107,10844 Wright Vista Apt. 036,Portsmouth,England,38030,UK,25.0,Male,Medium,Regular
+99025,Christine Turner,Joshua51@gmail.com,5737909446,611 Aaron Loop Suite 960,Portsmouth,England,3233,UK,30.0,Male,High,Regular
+18515,Jennifer Salinas,Rachel55@gmail.com,4737797508,883 Williams Stravenue Apt. 830,Portsmouth,England,21015,UK,67.0,Male,High,Regular
+75652,Marissa Nguyen,Jon26@gmail.com,6178669215,0051 Christina Harbors Apt. 721,Portsmouth,England,96613,UK,19.0,Female,Low,Regular
+17165,David Williams,Christopher90@gmail.com,7422837936,333 Justin Rest Apt. 122,Portsmouth,England,72179,UK,63.0,Male,Medium,Regular
+60597,Chad Cruz,Maria76@gmail.com,2500497785,387 Campbell Circles,Portsmouth,England,41657,UK,30.0,Male,High,Regular
+82260,John Arroyo,Eric89@gmail.com,4240101022,168 James Light,Portsmouth,England,57949,UK,70.0,Female,Low,Regular
+41508,William Ramos,Kenneth41@gmail.com,1915885161,569 Booker Forks,Portsmouth,England,38295,UK,37.0,Male,Medium,Regular
+74540,Stuart Hutchinson,Jack84@gmail.com,4026837554,887 Cooper Shoals Suite 557,Portsmouth,England,54468,UK,34.0,Female,Medium,Regular
+28607,Darren Higgins,Evan72@gmail.com,6043729604,6474 Mary Manor,Portsmouth,England,40450,UK,60.0,Male,Medium,Regular
+13793,Marie Robinson,Julie53@gmail.com,3280895365,44461 Ward Brook,Portsmouth,England,22735,UK,39.0,Male,Medium,Regular
+21174,Brianna Williamson,Madison34@gmail.com,5550789854,1800 Richard Loop,Portsmouth,England,23513,UK,20.0,Male,Low,Regular
+33107,Brittany Munoz,John99@gmail.com,7527657895,7099 Powers Via Apt. 552,Portsmouth,England,50967,UK,57.0,Male,Medium,Regular
+13081,Carolyn Johnson,Drew85@gmail.com,1199313949,717 Natalie Springs,Portsmouth,England,48763,UK,29.0,Female,Medium,Regular
+17458,Tracy Morrison,Jose8@gmail.com,4194422485,000 Jon Inlet Apt. 741,Portsmouth,England,80567,UK,44.0,Male,Low,Regular
+28830,Patricia Thompson,Matthew39@gmail.com,2200795305,649 Samantha Viaduct Apt. 497,Portsmouth,England,81755,UK,34.0,Male,Medium,Regular
+77374,Crystal Vasquez,Joseph96@gmail.com,9190264861,949 Shelly Run Apt. 966,Portsmouth,England,85998,UK,23.0,Female,High,Regular
+15891,Sue Parker,Melanie63@gmail.com,3563472128,79966 Gutierrez Common Apt. 179,Portsmouth,England,2072,UK,35.0,Male,Medium,Regular
+98301,David Gill,Steven86@gmail.com,2386996528,1047 Olivia Ways,Portsmouth,England,57879,UK,20.0,Male,Low,Regular
+14091,Gary Murphy,Mark64@gmail.com,8248689289,20196 Simmons Island Apt. 780,Portsmouth,England,24852,UK,24.0,Male,Low,Regular
+17065,Darrell Smith,Mallory66@gmail.com,8245994530,6873 Jennifer Common,Portsmouth,England,58179,UK,30.0,Male,Medium,Regular
+87673,Cheryl York,James38@gmail.com,3134748268,74389 Lance Fall,Portsmouth,England,61647,UK,19.0,Female,Medium,Regular
+17901,William Carrillo,Sheila52@gmail.com,3780408598,7378 Chapman Hill,Portsmouth,England,74127,UK,60.0,Male,Low,Regular
+49047,Lori Nelson,Ronald61@gmail.com,4144861582,08667 Joy Plaza,Portsmouth,England,63787,UK,28.0,Male,Medium,Regular
+77311,Deanna Miller,Kristen41@gmail.com,7857007347,814 Christopher Corners,Portsmouth,England,73191,UK,44.0,Female,Medium,Regular
+38047,Brittany Williams,Linda82@gmail.com,5689012053,7910 Mills Village,Portsmouth,England,90212,UK,67.0,Male,Low,Regular
+64636,Kelly Molina,Alexis28@gmail.com,1258222786,9417 Jared Vista,Portsmouth,England,53644,UK,41.0,Male,High,Regular
+82551,April Scott,Tiffany95@gmail.com,7470317117,52716 Craig Harbors Apt. 946,Portsmouth,England,35006,UK,36.0,Female,Medium,Regular
+83578,Heather Reed,Julia31@gmail.com,8322648816,347 Anderson Street Apt. 678,Portsmouth,England,96812,UK,51.0,Female,Low,Regular
+83650,Alexander Padilla,Mary16@gmail.com,6604455838,4220 David Orchard Apt. 636,Portsmouth,England,84707,UK,46.0,Male,Low,Regular
+40705,Joanna Thomas,Eric5@gmail.com,6370935124,70107 Tara Neck,Portsmouth,England,83612,UK,36.0,Male,Low,Regular
+89029,James Romero,Maria96@gmail.com,8017387336,51620 Bright Parkways Suite 588,Portsmouth,England,89081,UK,53.0,Male,Low,Regular
+93214,Donald Alvarez,Matthew78@gmail.com,3184559826,6927 Miller Street Suite 590,Portsmouth,England,7283,UK,66.0,Male,Medium,Regular
+49192,Steven Miller,Ryan76@gmail.com,9531762506,384 Monique Causeway,Portsmouth,England,25328,UK,61.0,Male,Medium,Regular
+89992,Leah Wilcox,Nicole91@gmail.com,7259937954,05182 Wolfe Views Apt. 527,Portsmouth,England,42781,UK,47.0,Male,Medium,Regular
+63588,Hector Hampton,Jessica14@gmail.com,1615577297,56324 Orozco Plaza,Portsmouth,England,72695,UK,40.0,Female,Low,Regular
+38486,Daniel Phillips,Ryan77@gmail.com,5541471973,740 Rodriguez Way,Portsmouth,England,50331,UK,31.0,Female,Medium,Regular
+64153,Joshua Hurley,Gene14@gmail.com,8691207583,5316 Ruiz Via,Portsmouth,England,10893,UK,28.0,Female,Medium,Regular
+15992,Katie Sweeney,Raymond78@gmail.com,2712262270,3586 John Mission,Portsmouth,England,76165,UK,48.0,Male,High,Regular
+43083,Raymond Hobbs,Rita77@gmail.com,2141541049,1152 Bowman Parks Suite 516,Portsmouth,England,96046,UK,40.0,Male,Low,Regular
+36536,Jose Velez,Travis51@gmail.com,3777490833,24622 Rice View,Portsmouth,England,33291,UK,40.0,Male,Low,Regular
+23631,Rita Ruiz MD,Elizabeth9@gmail.com,7884475046,592 Jacob Groves Suite 528,Portsmouth,England,86955,UK,48.0,Unknown,Medium,Regular
+97323,Matthew Franco,Brian47@gmail.com,1606858272,04054 Davis Trail Apt. 837,Portsmouth,England,69547,UK,37.0,Male,Medium,Regular
+27104,Jillian Jackson,Elizabeth67@gmail.com,5141700037,39547 Garcia Mountains,Portsmouth,England,47477,UK,19.0,Female,Low,Regular
+67876,Teresa Mendoza,Hailey97@gmail.com,8115625564,77171 Yu Square,Portsmouth,England,65175,UK,29.0,Male,High,Regular
+26917,Monica Santiago,Brenda43@gmail.com,7816789677,7968 Martinez Branch Apt. 942,Portsmouth,England,38797,UK,53.0,Female,Medium,Regular
+71298,Alicia Brown,Heather58@gmail.com,6773899562,272 Fletcher Fork Suite 213,Portsmouth,England,25544,UK,29.0,Male,Medium,Regular
+20280,Patrick Joseph,Mary8@gmail.com,5713762973,5914 Vargas Loop Apt. 416,Portsmouth,England,4681,UK,23.0,Male,Low,Regular
+25788,Gregory Schultz,Lucas55@gmail.com,8638006495,778 Ortega Ways,Portsmouth,England,96260,UK,36.0,Male,Medium,Regular
+88395,Jeffrey Russell,Brad83@gmail.com,1979922359,18265 Isaiah Junction,Portsmouth,England,43517,UK,55.0,Male,Medium,Regular
+38195,Laura Williams,Jacob57@gmail.com,4763563097,3072 Leon Wall,Portsmouth,England,73780,UK,62.0,Male,Medium,Regular
+80072,Danielle Hopkins,Kyle97@gmail.com,6937952370,7879 Joseph Loop Suite 667,Portsmouth,England,19385,UK,37.0,Female,Medium,Regular
+64275,Mrs. Taylor Dixon,Alexandra85@gmail.com,4173397582,7386 Delacruz Lock,Portsmouth,England,47009,UK,22.0,Female,Low,Regular
+74784,Donna Miller,Lisa18@gmail.com,1079511683,603 Holt Prairie Apt. 281,Portsmouth,England,19860,UK,19.0,Male,Medium,Regular
+40091,Cory Montgomery,Amanda34@gmail.com,6594179736,25035 Harvey Junctions Suite 888,Portsmouth,England,81398,UK,54.0,Male,Medium,Regular
+96958,Brian Juarez,Pamela69@gmail.com,4059293110,76421 Tran Vista,Portsmouth,England,31495,UK,27.0,Female,Medium,Regular
+63956,Don Huffman,Kara76@gmail.com,5462415153,3534 Moreno Fork,Portsmouth,England,66129,UK,38.0,Female,Medium,Regular
+82346,Kathleen Stephens,Juan40@gmail.com,7308279822,573 Walton Bridge,Portsmouth,England,85497,UK,19.0,Male,Medium,Regular
+31998,Patrick Smith,Michelle44@gmail.com,7783694946,871 Roberts Park,Portsmouth,England,94810,UK,66.0,Female,Medium,Regular
+28302,Jennifer Larson,Sergio50@gmail.com,5055096848,877 Carly Islands,Portsmouth,England,28827,UK,69.0,Female,High,Regular
+22848,William Chavez,Makayla80@gmail.com,1423933021,6233 Lewis Plains,Portsmouth,England,25222,UK,51.0,Male,Low,Regular
+22042,Sharon Peters,Nathan37@gmail.com,8571545152,832 Mary Circle Suite 710,Portsmouth,England,44106,UK,48.0,Male,Low,Regular
+38014,Michael Anderson,Dakota67@gmail.com,9748370708,8763 Coleman Rue Suite 705,Portsmouth,England,46958,UK,32.0,Male,High,Regular
+29568,Monica Beltran,Karen4@gmail.com,9017919256,5817 Allen Burgs Apt. 737,Portsmouth,England,3936,UK,55.0,Female,Low,Regular
+43434,Nancy Smith,Donna97@gmail.com,8943621154,158 Caldwell Bypass,Portsmouth,England,88693,UK,25.0,Male,Low,Regular
+39794,Ray Malone,Dennis32@gmail.com,9185893153,556 Matthew Burgs Apt. 821,Portsmouth,England,29360,UK,22.0,Female,Low,Regular
+30209,Julie Mcdonald,Patrick69@gmail.com,1021127548,9508 Johnson Valleys Apt. 472,Portsmouth,England,3675,UK,21.0,Male,High,Regular
+56437,Diana Barton,Caleb77@gmail.com,1284763315,45097 Olivia Plains,Portsmouth,England,8899,UK,27.0,Female,Medium,Regular
+56970,Christine Lewis,John32@gmail.com,1861269747,9296 Nicholas Spring Suite 332,Portsmouth,England,47035,UK,51.0,Male,Low,Regular
+35511,Alexander Jones,Donna64@gmail.com,7396476919,90110 Frazier Summit Apt. 164,Portsmouth,England,37574,UK,47.0,Male,Medium,Regular
+80891,Lisa Newman,Christine16@gmail.com,4985600846,37110 Danielle Plains,Portsmouth,England,37502,UK,61.0,Male,Medium,Regular
+72108,Christopher Knight,Barry71@gmail.com,8492990952,0921 Alexis Trail,Portsmouth,England,40672,UK,54.0,Male,Low,Regular
+14984,Gary Jackson,Joseph55@gmail.com,3285194917,29210 Robert Drive Suite 993,Portsmouth,England,89556,UK,61.0,Female,High,Regular
+55747,James Brown,Julia64@gmail.com,2499586823,42688 Jones Circles,Portsmouth,England,37438,UK,37.0,Female,High,Regular
+82021,Blake Dougherty,Joshua12@gmail.com,9391241700,615 Lauren Mills Suite 642,Portsmouth,England,46404,UK,40.0,Female,Low,Regular
+23547,Jeremy Spencer,Jeffrey92@gmail.com,4381849490,15339 Dyer Island Apt. 489,Portsmouth,England,89307,UK,21.0,Female,Low,Regular
+41485,Kevin Reyes,Melissa38@gmail.com,5417605337,99341 Christopher Shore Apt. 637,Portsmouth,England,83590,UK,28.0,Male,Low,Regular
+97340,Carlos Moore,Joann35@gmail.com,7312418586,26183 Clark Roads,Portsmouth,England,83809,UK,26.0,Male,Medium,Regular
+12790,Nicole Diaz,Brenda25@gmail.com,6019350285,1937 Norris Green,Portsmouth,England,28558,UK,30.0,Female,Medium,Regular
+84624,James Robinson,Victoria86@gmail.com,7810575182,07982 Scott Fields Suite 652,Portsmouth,England,1536,UK,48.0,Male,High,Regular
+72646,Kimberly Walker,Joseph76@gmail.com,6543193452,882 Alexander Crossing Apt. 571,Portsmouth,England,23778,UK,23.0,Female,Low,Regular
+53375,Chad Myers,Vincent13@gmail.com,5706824688,610 Owens Parkway,Portsmouth,England,83980,UK,62.0,Female,Medium,Regular
+15041,Zachary Rodriguez,Nancy16@gmail.com,5076765391,92713 Christine Meadows Apt. 884,Portsmouth,England,16933,UK,53.0,Female,Medium,Regular
+19347,John Santos,Alan10@gmail.com,8279481017,5157 Juan Summit Suite 470,Portsmouth,England,20816,UK,25.0,Female,High,Regular
+98120,Michelle Spears,Joseph53@gmail.com,3830869205,8199 Gonzalez Oval,Portsmouth,England,57497,UK,68.0,Male,Medium,Regular
+22107,Scott Burke,Brandy95@gmail.com,3488941991,24572 Monica Views Apt. 956,Portsmouth,England,47672,UK,50.0,Female,High,Regular
+84395,Kenneth Parker,Samuel30@gmail.com,6987214199,5467 Aguilar Unions,Portsmouth,England,95009,UK,52.0,Male,Low,Regular
+90796,Dawn Rodriguez,Joseph71@gmail.com,7800274238,027 Carroll Vista Suite 413,Portsmouth,England,20248,UK,18.0,Male,Low,Regular
+72463,Curtis Martin,Richard44@gmail.com,6181749253,8795 Stark Common Suite 406,Portsmouth,England,41139,UK,31.0,Male,Low,Regular
+17705,Michelle Simmons,Peter4@gmail.com,3235195556,91972 Randolph Locks,Portsmouth,England,98403,UK,62.0,Male,Low,Regular
+70727,Sara White,Tracy39@gmail.com,7925321397,97422 Clark Island Suite 319,Portsmouth,England,99729,UK,40.0,Female,Low,Regular
+72707,Miranda Gallagher,Laura43@gmail.com,6536728146,703 Lucas Gateway,Portsmouth,England,55706,UK,37.0,Female,Low,Regular
+98764,Joshua Mclean,James65@gmail.com,3067566092,8500 Travis Drives Apt. 780,Portsmouth,England,61688,UK,53.0,Male,High,Regular
+89722,Eric Choi,Anne44@gmail.com,5877278277,1370 Meyer Lodge Suite 949,Portsmouth,England,83868,UK,38.0,Male,Medium,Regular
+41496,Olivia Russell,Jared86@gmail.com,8161246701,780 Joseph Walk,Portsmouth,England,77772,UK,55.0,Male,High,Regular
+85908,Kevin Mckinney,Gary50@gmail.com,8616972777,451 Philip Crossroad Suite 584,Portsmouth,England,93742,UK,37.0,Male,High,Regular
+10010,Ryan Smith,Emma94@gmail.com,4658668028,5298 Christopher Run Suite 045,Portsmouth,England,72512,UK,32.0,Female,Low,Regular
+55609,Andrea Hudson,Kimberly39@gmail.com,7694149566,5187 Thomas Orchard Apt. 171,Portsmouth,England,27060,UK,52.0,Female,Medium,Regular
+26560,Guy Hunter DDS,Albert71@gmail.com,8611330603,823 Newman Prairie,Portsmouth,England,54989,UK,45.0,Male,Low,Regular
+75834,Cassandra Ross,Joshua37@gmail.com,4201699432,8881 Edward Lock,Portsmouth,England,28777,UK,56.0,Male,Low,Regular
+98004,Robert Porter,John5@gmail.com,3082458402,300 Carter Ways,Portsmouth,England,7140,UK,40.0,Male,High,Regular
+67818,Dawn Frazier,John24@gmail.com,3135974353,45435 Duarte Hollow,Portsmouth,England,38727,UK,27.0,Female,Medium,Regular
+51655,Amy Marsh,Christopher18@gmail.com,4218384631,047 Miller Cove Suite 774,Portsmouth,England,66616,UK,64.0,Female,Medium,Regular
+39665,Ruth Carter,Matthew95@gmail.com,6186249535,6766 Perry Landing,Portsmouth,England,99314,UK,19.0,Male,Low,Regular
+65112,Michael Gamble,Bryan52@gmail.com,3080550034,4041 Elizabeth Via,Portsmouth,England,13215,UK,53.0,Male,High,Regular
+13459,Ricky Parker,Ian84@gmail.com,1079876312,5940 Angela Lakes Suite 947,Portsmouth,England,46114,UK,52.0,Male,Medium,Regular
+14341,Gabriella Frazier,Robin58@gmail.com,2132706627,406 Aguilar Ferry,Portsmouth,England,12192,UK,57.0,Female,Low,Regular
+39167,Linda Sims,Christine76@gmail.com,5240591524,9328 William Mount Apt. 929,Portsmouth,England,3424,UK,54.0,Female,Low,Regular
+11029,John Phillips,Amanda15@gmail.com,6128206582,624 Castro Passage Suite 162,Portsmouth,England,59190,UK,19.0,Female,Medium,Regular
+42624,Joshua Chang,Corey12@gmail.com,5191104452,0830 Joseph Knolls,Portsmouth,England,16447,UK,32.0,Male,Low,Regular
+62402,Rachael Lewis,Ronald72@gmail.com,1919999700,13780 Sara Ridges,Portsmouth,England,43881,UK,70.0,Male,Medium,Regular
+20692,Christine Nelson,Stephanie92@gmail.com,9151809158,680 Hanson Parks,Portsmouth,England,22679,UK,35.0,Male,Low,Regular
+55182,Timothy Rodriguez DVM,Valerie48@gmail.com,5975348710,066 Velasquez Wells,Portsmouth,England,75886,UK,59.0,Female,Low,Regular
+84643,Daniel Kelley,Kevin87@gmail.com,6250344306,25985 Matthew Shore Apt. 826,Portsmouth,England,37717,UK,63.0,Male,Medium,Regular
+23180,Rick Brown,Jackson60@gmail.com,6535446889,6929 Terri Turnpike Apt. 943,Portsmouth,England,55148,UK,35.0,Female,Medium,Regular
+75024,Alicia Spencer,Joseph16@gmail.com,4396252938,4919 Stevens Islands,Portsmouth,England,42633,UK,55.0,Male,Low,Regular
+23314,Angela Davis,Tyler76@gmail.com,7869250213,5362 Underwood Ferry Suite 697,Portsmouth,England,96749,UK,66.0,Male,Low,Regular
+25390,Dr. Rachel Larsen,Michael47@gmail.com,3518575416,2006 Dan Walks,Portsmouth,England,58730,UK,22.0,Male,Low,Regular
+82606,John Kelly,Cheryl57@gmail.com,8926330724,05103 Brandon Mission Suite 416,Portsmouth,England,17293,UK,28.0,Male,Low,Regular
+66590,Ashley Clark,Alicia1@gmail.com,8181726566,15421 Frederick Village,Portsmouth,England,96954,UK,23.0,Female,High,Regular
+63858,Michael Tyler,Elizabeth65@gmail.com,9147638410,424 Emma Fork,Portsmouth,England,39309,UK,64.0,Male,Medium,Regular
+89973,Veronica Miles,Peter93@gmail.com,8555668959,30234 John Parks,Portsmouth,England,77111,UK,70.0,Female,Low,Regular
+12267,Shawna Perez,Anna95@gmail.com,5908793193,62462 Andrew Stream Apt. 538,Portsmouth,England,6046,UK,67.0,Male,High,Regular
+11789,Ronald Wallace,Douglas49@gmail.com,2242253020,22516 Dickson Forest Suite 304,Portsmouth,England,89814,UK,69.0,Male,High,Regular
+47082,Ricky Bates,Diana40@gmail.com,2497673898,25654 Mary Lodge,Portsmouth,England,95879,UK,54.0,Female,Low,Regular
+28353,Dalton Johnson,Kellie68@gmail.com,1096985217,7061 Weeks Cliffs,Portsmouth,England,2587,UK,47.0,Female,Low,Regular
+38337,Judy Beasley,Patricia75@gmail.com,4258060242,16511 Bruce Valleys,Portsmouth,England,59522,UK,30.0,Female,Low,Regular
+29257,Charlene Chambers,Sandy51@gmail.com,1050251661,2077 Campbell Pines Suite 551,Portsmouth,England,78411,UK,65.0,Female,Medium,Regular
+21397,Shelley Tran,Brian36@gmail.com,4813870334,6374 Brian Forks,Portsmouth,England,77155,UK,47.0,Female,Medium,Regular
+51531,Kayla Harris,Billy36@gmail.com,6984534711,920 Roberts Vista Suite 073,Portsmouth,England,40773,UK,61.0,Male,High,Regular
+75848,Steven Weiss,Wesley98@gmail.com,5416753404,63113 Cox Underpass,Portsmouth,England,43516,UK,52.0,Female,Medium,Regular
+82677,Marissa Barnett,Kenneth34@gmail.com,4508549367,38327 Smith Port Suite 210,Portsmouth,England,67021,UK,44.0,Male,High,Regular
+66020,Austin Mills,Tara90@gmail.com,7757761949,576 Long Court Apt. 604,Portsmouth,England,60674,UK,23.0,Female,Medium,Regular
+14855,Kimberly Holloway,Alan9@gmail.com,2251902067,4870 Ferguson Square,Portsmouth,England,48880,UK,43.0,Female,Medium,Regular
+99058,Jason Gentry,Geoffrey56@gmail.com,1017182422,847 Cunningham Island Suite 741,Portsmouth,England,2847,UK,65.0,Female,Low,Regular
+11381,Jillian Perez,Steve70@gmail.com,7145416721,70194 Doyle Squares,Portsmouth,England,84473,UK,40.0,Male,Medium,Regular
+97549,Brady Stanley,Jordan16@gmail.com,6532213356,9574 Heath Points Apt. 765,Portsmouth,England,10616,UK,46.0,Male,Medium,Regular
+32669,Gloria Luna,Julie87@gmail.com,9213719126,95852 Tara Lake Apt. 850,Portsmouth,England,27752,UK,64.0,Male,Low,Regular
+61308,James Davis,Kayla57@gmail.com,4673806307,95458 Amber Rapids Apt. 246,Portsmouth,England,12624,UK,63.0,Female,Medium,Regular
+14663,Ryan Paul,Diana80@gmail.com,8756094692,514 Sarah Drive Apt. 189,Portsmouth,England,40326,UK,53.0,Male,High,Regular
+97143,Michael Marshall,Matthew41@gmail.com,4999356777,8412 Porter Underpass Apt. 598,Portsmouth,England,9274,UK,23.0,Male,High,Regular
+93553,Nathaniel Kim,Brianna70@gmail.com,2838497046,74192 Wagner Ranch Suite 611,Portsmouth,England,29643,UK,25.0,Male,High,Regular
+36836,Cody Anderson,Andrea94@gmail.com,5211458442,4333 Amy Stream Suite 779,Portsmouth,England,13832,UK,31.0,Female,High,Regular
+62308,Jillian Harrison,Erika61@gmail.com,8009152719,43733 Simpson Court,Portsmouth,England,45565,UK,18.0,Female,High,Regular
+41424,Elizabeth Oliver,Lucas93@gmail.com,7540400657,9874 Mays Viaduct,Portsmouth,England,30659,UK,66.0,Male,High,Regular
+44149,Craig Cooper,Donald85@gmail.com,4180256114,866 Collins Lake Suite 532,Portsmouth,England,10200,UK,29.0,Male,High,Regular
+61816,Patrick Long,Timothy53@gmail.com,8167825182,14840 Johnson Rapids Suite 971,Portsmouth,England,39384,UK,59.0,Male,High,Regular
+30165,Sean Woods,Jennifer86@gmail.com,2978590440,405 Carrie Stravenue,Portsmouth,England,12747,UK,34.0,Male,High,Regular
+44339,Elizabeth Craig,Jason14@gmail.com,4684645193,18077 Martin Mount Suite 334,Portsmouth,England,13668,UK,36.0,Male,High,Regular
+95441,Mr. Mark Thornton,Patrick22@gmail.com,8285344215,832 Anderson Shoal,Portsmouth,England,26727,UK,50.0,Female,High,Regular
+99652,Jennifer Ferguson,Candace26@gmail.com,8363044786,0854 Jacqueline Bypass Apt. 382,Portsmouth,England,55107,UK,29.0,Male,High,Regular
+87457,Michelle Murray,John72@gmail.com,1232869982,22583 King Village Suite 629,Portsmouth,England,43636,UK,22.0,Male,High,Regular
